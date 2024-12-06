@@ -9033,6 +9033,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/speedometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-06 22:08:55 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/magenta_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2024-12-06 20:33:02 +0000"
@@ -9078,6 +9084,12 @@
   "createdeco:recipes/decorations/gray_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2024-12-06 20:33:02 +0000"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2024-12-06 22:08:59 +0000"
     },
     "done": true
   },

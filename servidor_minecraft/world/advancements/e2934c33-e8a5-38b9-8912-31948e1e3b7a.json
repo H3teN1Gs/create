@@ -7655,6 +7655,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2024-12-06 22:16:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-06 21:44:50 +0000"
@@ -7760,6 +7766,12 @@
   "mcwholidays:recipes/mixed_oak_leaves": {
     "criteria": {
       "has_planks": "2024-12-06 21:44:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_globe": "2024-12-06 22:16:06 +0000"
     },
     "done": true
   },
