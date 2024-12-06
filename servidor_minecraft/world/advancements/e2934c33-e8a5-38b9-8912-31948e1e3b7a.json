@@ -204,11 +204,15 @@
       "minecraft:snowy_plains": "2024-12-06 15:22:06 +0000",
       "minecraft:snowy_taiga": "2024-12-06 13:31:31 +0000",
       "minecraft:cold_ocean": "2024-12-06 22:26:11 +0000",
+      "minecraft:forest": "2024-12-06 22:28:48 +0000",
       "minecraft:lush_caves": "2024-12-06 13:59:50 +0000",
       "minecraft:deep_cold_ocean": "2024-12-06 22:26:15 +0000",
       "minecraft:frozen_ocean": "2024-12-06 14:56:15 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-06 14:58:14 +0000",
-      "minecraft:snowy_beach": "2024-12-04 22:35:06 +0000"
+      "minecraft:ocean": "2024-12-06 22:28:07 +0000",
+      "minecraft:snowy_beach": "2024-12-04 22:35:06 +0000",
+      "minecraft:meadow": "2024-12-06 22:31:33 +0000",
+      "minecraft:plains": "2024-12-06 22:28:58 +0000"
     },
     "done": false
   },
@@ -1510,6 +1514,7 @@
       "minecraft:skeleton": "2024-12-06 13:34:03 +0000",
       "minecraft:vindicator": "2024-12-06 15:08:39 +0000",
       "minecraft:spider": "2024-12-06 13:37:42 +0000",
+      "minecraft:creeper": "2024-12-06 22:30:38 +0000",
       "minecraft:zombified_piglin": "2024-12-06 19:23:29 +0000",
       "minecraft:witch": "2024-12-06 13:37:38 +0000",
       "minecraft:cave_spider": "2024-12-06 14:37:07 +0000",
@@ -7567,9 +7572,27 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/galena_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
+    },
+    "done": true
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2024-12-06 21:44:08 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/polished_cut_galena_stairs_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/small_galena_bricks_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
     },
     "done": true
   },
@@ -7597,15 +7620,39 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/layered_galena_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-12-06 20:53:40 +0000"
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/cut_galena_bricks_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/small_galena_brick_stairs_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
+    },
+    "done": true
+  },
   "botania:main/root": {
     "criteria": {
       "flower": "2024-12-06 21:44:08 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/polished_cut_galena_wall_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
     },
     "done": true
   },
@@ -7618,6 +7665,12 @@
   "createbigcannons:recipes/misc/impact_fuze": {
     "criteria": {
       "has_impact_fuze_head": "2024-12-06 21:16:51 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/werecat": {
+    "criteria": {
+      "kill": "2024-12-06 22:32:44 +0000"
     },
     "done": true
   },
@@ -7636,6 +7689,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-12-06 20:53:40 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/small_galena_brick_wall_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
     },
     "done": true
   },
@@ -7675,6 +7734,12 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/small_galena_brick_slab_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/mixed_oak_leaves_carpet": {
     "criteria": {
       "has_planks": "2024-12-06 21:44:38 +0000"
@@ -7684,6 +7749,12 @@
   "mcwholidays:recipes/brown_oak_leaves": {
     "criteria": {
       "has_planks": "2024-12-06 21:44:38 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_galena_brick_slab_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
     },
     "done": true
   },
@@ -7699,6 +7770,12 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/polished_cut_galena_slab_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/lime_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-06 21:44:08 +0000"
@@ -7708,6 +7785,12 @@
   "mcwholidays:recipes/orange_oak_leaves": {
     "criteria": {
       "has_planks": "2024-12-06 21:44:38 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/galena_pillar_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
     },
     "done": true
   },
@@ -7726,6 +7809,12 @@
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2024-12-06 21:44:08 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_galena_stairs_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
     },
     "done": true
   },
@@ -7777,9 +7866,21 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/cut_galena_wall_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-06 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_galena_brick_wall_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
     },
     "done": true
   },
@@ -7789,9 +7890,33 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/cut_galena_slab_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_galena_brick_stairs_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/polished_cut_galena_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-06 21:44:50 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_galena_from_stone_types_galena_stonecutting": {
+    "criteria": {
+      "has_stone_types_galena": "2024-12-06 22:30:18 +0000"
     },
     "done": true
   },
