@@ -7565,6 +7565,18 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-12-06 21:44:08 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/red_oak_leaves_carpet": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:44:38 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/hollow_leggings": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-12-06 20:46:08 +0000"
@@ -7577,15 +7589,39 @@
     },
     "done": true
   },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2024-12-06 21:44:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-12-06 20:53:40 +0000"
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-12-06 21:44:08 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/yellow_oak_leaves_carpet": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:44:38 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/impact_fuze": {
     "criteria": {
       "has_impact_fuze_head": "2024-12-06 21:16:51 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/brown_oak_leaves_carpet": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:44:38 +0000"
     },
     "done": true
   },
@@ -7619,9 +7655,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-06 21:44:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-12-06 20:46:08 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/mixed_oak_leaves_carpet": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:44:38 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/brown_oak_leaves": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:44:38 +0000"
     },
     "done": true
   },
@@ -7637,6 +7691,18 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/lime_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-06 21:44:08 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/orange_oak_leaves": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:44:38 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2024-12-06 21:22:19 +0000"
@@ -7649,9 +7715,39 @@
     },
     "done": false
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-12-06 21:44:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-06 20:53:40 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/orange_oak_leaves_carpet": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:44:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_lime": {
+    "criteria": {
+      "has_item": "2024-12-06 21:44:08 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/red_oak_leaves": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:44:38 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/yellow_oak_leaves": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:44:38 +0000"
     },
     "done": true
   },
@@ -7661,9 +7757,39 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/mixed_oak_leaves": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:44:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-06 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-06 21:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-06 21:44:50 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/thatch": {
     "criteria": {
       "has_planks": "2024-12-06 20:56:30 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-12-06 21:44:08 +0000"
     },
     "done": true
   },

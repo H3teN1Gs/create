@@ -4574,3 +4574,162 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 21:35:39.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> cosas q nunca me dicen
 [06Dec2024 21:36:04.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
 [06Dec2024 21:36:47.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> la esquina?
+[06Dec2024 21:37:13.120] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[06Dec2024 21:38:09.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 21:38:51.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> q necesitamos mas lentitud o velocidad
+[06Dec2024 21:39:02.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> a mas distancia no deberia ir mas despacio ya q tiene q mover mas?
+[06Dec2024 21:39:10.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> casi
+[06Dec2024 21:39:17.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 21:42:19.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 21:42:26.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 21:42:32.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 21:42:34.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> hostia como estos nerfeos sean verdad gg el valorant
+[06Dec2024 21:42:48.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 21:42:52.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 21:42:57.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> tu, no se si el video es antiguo pero nerfearon a neon o no
+[06Dec2024 21:43:09.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> gays
+[06Dec2024 21:43:15.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> maricones
+[06Dec2024 21:43:18.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> tu, no se si el video es antiguo pero nerfearon a neon o no
+[06Dec2024 21:43:31.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> 1 slide
+[06Dec2024 21:43:42.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> nerfearon precision en el slide y la ulti pide 8 orbes y dura menos
+[06Dec2024 21:43:49.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> y ya sabes lo de los humos y la spike?
+[06Dec2024 21:44:00.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 21:44:05.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> y ya sabes lo de los humos y la spike si o no
+[06Dec2024 21:44:08.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Sky of Beginning]
+[06Dec2024 21:44:17.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=639, y=71, z=211} BlockPos{x=638, y=71, z=211}
+[06Dec2024 21:44:17.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=640, y=70, z=211} BlockPos{x=638, y=71, z=211}
+[06Dec2024 21:44:18.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=641, y=70, z=211} BlockPos{x=638, y=71, z=211}
+[06Dec2024 21:44:18.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=639, y=71, z=211} BlockPos{x=638, y=71, z=211}
+[06Dec2024 21:44:19.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=640, y=70, z=211} BlockPos{x=641, y=70, z=211}
+[06Dec2024 21:44:22.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=641, y=69, z=206} BlockPos{x=640, y=71, z=207}
+[06Dec2024 21:44:22.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:22.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:22.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:22.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:22.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:22.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:22.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:23.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:24.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:24.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:24.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:24.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:24.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:24.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:24.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:24.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:24.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:24.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:24.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:24.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=70, z=208} BlockPos{x=642, y=70, z=205}
+[06Dec2024 21:44:26.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=69, z=203} BlockPos{x=645, y=68, z=202}
+[06Dec2024 21:44:26.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=69, z=203} BlockPos{x=645, y=68, z=202}
+[06Dec2024 21:44:26.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=69, z=203} BlockPos{x=645, y=68, z=202}
+[06Dec2024 21:44:26.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=69, z=203} BlockPos{x=645, y=68, z=202}
+[06Dec2024 21:44:26.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=69, z=203} BlockPos{x=645, y=68, z=202}
+[06Dec2024 21:44:26.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=69, z=203} BlockPos{x=645, y=68, z=202}
+[06Dec2024 21:44:26.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=69, z=203} BlockPos{x=645, y=68, z=202}
+[06Dec2024 21:44:26.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=69, z=203} BlockPos{x=645, y=68, z=202}
+[06Dec2024 21:44:26.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=69, z=203} BlockPos{x=645, y=68, z=202}
+[06Dec2024 21:44:26.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=69, z=203} BlockPos{x=645, y=68, z=202}
+[06Dec2024 21:44:26.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=69, z=203} BlockPos{x=645, y=68, z=202}
+[06Dec2024 21:44:26.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=69, z=203} BlockPos{x=645, y=68, z=202}
+[06Dec2024 21:44:26.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=69, z=203} BlockPos{x=645, y=68, z=202}
+[06Dec2024 21:44:28.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=68, z=211} BlockPos{x=644, y=68, z=208}
+[06Dec2024 21:44:28.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=68, z=211} BlockPos{x=644, y=68, z=208}
+[06Dec2024 21:44:28.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=68, z=211} BlockPos{x=644, y=68, z=208}
+[06Dec2024 21:44:46.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> tu secret sabes ya lo q le hicieron a los humos y a la spike o no
+[06Dec2024 21:45:14.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> tu secret sabes ya lo q le hicieron a los humos y a la spike o no
+[06Dec2024 21:45:17.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Spectator Mode]
+[06Dec2024 21:45:30.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> ahora no se puede pingear la spike dentro del humo
+[06Dec2024 21:45:35.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> bueno no se podra
+[06Dec2024 21:45:45.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> el ping no entra al humo
+[06Dec2024 21:45:47.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> se queda fuera
+[06Dec2024 21:45:50.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
+[06Dec2024 21:46:03.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 21:46:24.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Spectator Mode]
+[06Dec2024 21:46:29.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
+[06Dec2024 21:46:46.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 21:46:55.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 614.500000, 60.500000, 263.500000]
+[06Dec2024 21:46:57.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 21:47:03.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 21:47:09.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 21:47:14.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 21:49:24.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> cuanto tiempo llevo sin salir a fuera XD
+[06Dec2024 21:49:28.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 21:49:35.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nezmanmatalaura> gamemode survival
+[06Dec2024 21:49:39.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 21:49:52.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> donde
+[06Dec2024 21:49:59.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 21:50:02.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> girar gira
+[06Dec2024 21:50:05.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 21:50:33.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 21:50:41.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 21:51:00.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> en el inicio del modpack
+[06Dec2024 21:51:02.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> XD
+[06Dec2024 21:51:58.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> 0 por hora
+[06Dec2024 21:52:14.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> 1 de hierro por dia
+[06Dec2024 21:53:06.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 21:53:38.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> nez q paso aqui
+[06Dec2024 21:53:55.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> paro la maquina?
+[06Dec2024 21:54:49.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> la pare
+[06Dec2024 21:54:51.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> por si acaso
+[06Dec2024 21:55:28.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> si
+[06Dec2024 21:55:47.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> paro?
+[06Dec2024 21:55:52.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> nop
+[06Dec2024 21:56:19.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> tu nez
+[06Dec2024 21:56:23.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has reached the goal [On a Roll]
+[06Dec2024 21:57:06.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> en el barril dices
+[06Dec2024 21:57:20.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> en el calderon hay 1 pero en el barril no XD
+[06Dec2024 21:57:50.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> en el barril no
+[06Dec2024 21:57:52.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> en el calderon si
+[06Dec2024 21:57:58.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> solo en el izquierdo
+[06Dec2024 21:58:01.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> basin
+[06Dec2024 21:58:02.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> q diga
+[06Dec2024 21:58:06.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> hay 5 ahora
+[06Dec2024 21:58:10.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> el derecho no genera
+[06Dec2024 21:59:50.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> elq
+[06Dec2024 22:00:39.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 22:00:46.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 22:01:08.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 22:01:13.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 22:02:04.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> nez elena te quiere puto fusilar por lo q me cuenta
+[06Dec2024 22:02:13.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> yo q se mira dm
+[06Dec2024 22:02:24.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> XD
+[06Dec2024 22:02:31.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> vaya sigma boy
+[06Dec2024 22:03:03.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> W
+[06Dec2024 22:03:44.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was killed
+[06Dec2024 22:03:44.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed nezmanmatalaura]
+[06Dec2024 22:03:44.320] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 22:04:29.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> hacemos una segunda maquina entonces
+[06Dec2024 22:04:33.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> t imaginas
+[06Dec2024 22:04:37.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 22:04:43.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 22:05:22.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> la verdad no se
+[06Dec2024 22:05:27.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 22:05:35.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 22:06:18.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 22:06:24.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 22:06:37.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 22:06:42.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 22:06:55.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 22:07:00.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
