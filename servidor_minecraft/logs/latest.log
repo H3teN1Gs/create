@@ -4469,3 +4469,38 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 20:40:34.595] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
 [06Dec2024 20:40:35.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
 [06Dec2024 20:40:35.971] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
+[06Dec2024 20:47:13.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 20:48:23.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by capybarav2
+[06Dec2024 20:48:23.839] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 20:48:27.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 20:49:20.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Spectator Mode]
+[06Dec2024 20:49:42.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
+[06Dec2024 20:50:24.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nezmanmatalaura> UN SEC
+[06Dec2024 20:52:01.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to capybarav2]
+[06Dec2024 20:52:03.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nezmanmatalaura> list filter
+[06Dec2024 20:56:51.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 20:57:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[06Dec2024 20:57:19.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
+[06Dec2024 20:57:19.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[06Dec2024 20:57:19.414] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 20:58:11.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [The Parrots and the Bats]
+[06Dec2024 21:06:54.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> fr
+[06Dec2024 21:06:59.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> "maquina basica de hierro"
+[06Dec2024 21:07:07.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> procede a estallar
+[06Dec2024 21:07:38.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> secret mira este reactor nuclear llamado "farm de hierro basico"
+[06Dec2024 21:08:14.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> la morsa tanquea
+[06Dec2024 21:08:34.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> elq
+[06Dec2024 21:08:45.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> cubos de hierro wtf
+[06Dec2024 21:08:52.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> COMO HAGO ESO
+[06Dec2024 21:08:58.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> a coño
+[06Dec2024 21:08:59.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> nada
+[06Dec2024 21:09:01.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> dislexia
+[06Dec2024 21:10:37.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 21:11:18.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> suicidate
+[06Dec2024 21:11:35.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> tarde
+[06Dec2024 21:11:42.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> donde
+[06Dec2024 21:13:04.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> cuantas
+[06Dec2024 21:13:38.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Hot Stuff]
+[06Dec2024 21:14:38.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 21:15:34.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 21:16:23.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]

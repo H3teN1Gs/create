@@ -8894,6 +8894,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-06 21:09:29 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2024-12-06 20:45:55 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/yellow_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2024-12-06 20:33:02 +0000"
@@ -8933,6 +8945,18 @@
   "createdeco:recipes/decorations/brown_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2024-12-06 20:33:02 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/witch_cauldron": {
+    "criteria": {
+      "has_planks": "2024-12-06 20:47:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2024-12-06 20:53:08 +0000"
     },
     "done": true
   },
