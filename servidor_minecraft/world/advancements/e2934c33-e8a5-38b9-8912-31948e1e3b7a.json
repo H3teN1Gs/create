@@ -7529,6 +7529,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-06 19:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2024-12-06 19:45:57 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/tear_of_the_sea": {
+    "criteria": {
+      "tear_of_the_sea": "2024-12-06 19:46:08 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2024-12-06 19:46:50 +0000"
@@ -7541,27 +7559,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
-    "criteria": {
-      "walk_on_powder_snow_with_leather_boots": "2024-12-06 19:45:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-06 19:46:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2024-12-06 19:45:47 +0000"
-    },
-    "done": true
-  },
-  "nameless_trinkets:obtain/tear_of_the_sea": {
-    "criteria": {
-      "tear_of_the_sea": "2024-12-06 19:46:08 +0000"
     },
     "done": true
   },
