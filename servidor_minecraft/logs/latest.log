@@ -4953,3 +4953,35 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 22:47:32.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
 [06Dec2024 22:47:33.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> pero cual es el problema
 [06Dec2024 22:47:50.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> va igual
+[06Dec2024 22:48:18.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> cual es el objetivo entonces
+[06Dec2024 22:48:31.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> cual es el objetivo entonces
+[06Dec2024 22:48:46.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> pero lo q ocasiona el problema cual es
+[06Dec2024 22:48:49.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> arriba o abajo
+[06Dec2024 22:49:00.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
+[06Dec2024 22:49:13.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> si
+[06Dec2024 22:49:18.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 22:50:06.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 22:50:40.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 22:50:41.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e2934c33-e8a5-38b9-8912-31948e1e3b7a timed out
+[06Dec2024 22:50:41.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Secrethaks
+[06Dec2024 22:50:41.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[06Dec2024 22:50:44.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> dame shafts nez
+[06Dec2024 22:50:47.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks moved too quickly! -10.077287613995168,1.024424088213685,1.2124363681555792
+[06Dec2024 22:50:49.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 22:50:50.084] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 22:50:50.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
+[06Dec2024 22:50:52.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> no mucho
+[06Dec2024 22:50:53.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 22:50:55.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Spectator Mode]
+[06Dec2024 22:51:10.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
+[06Dec2024 22:51:23.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> si
+[06Dec2024 22:51:44.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Spectator Mode]
+[06Dec2024 22:52:02.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> no podemos subir 1 de altura la rueda?
+[06Dec2024 22:52:18.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
+[06Dec2024 22:52:24.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 22:52:34.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> esq si queremos generar mas velocidad necesitamos q no se tenga contacto con nada mas q con agua
+[06Dec2024 22:52:54.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> si pa q no tenga colision con nada
+[06Dec2024 22:56:53.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> puedo parar el generador un momento?
+[06Dec2024 22:57:11.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported Secrethaks to capybarav2]
+[06Dec2024 22:57:17.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 22:57:22.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> pillalo d momento
