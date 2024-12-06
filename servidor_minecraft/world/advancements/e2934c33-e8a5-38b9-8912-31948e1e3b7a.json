@@ -7583,6 +7583,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/impact_fuze": {
+    "criteria": {
+      "has_impact_fuze_head": "2024-12-06 21:16:51 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/hollow_chestplate": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-12-06 20:46:08 +0000"
@@ -7592,6 +7598,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-12-06 20:53:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2024-12-06 21:16:51 +0000"
     },
     "done": true
   },
@@ -7622,6 +7634,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-06 20:56:30 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2024-12-06 21:22:19 +0000"
     },
     "done": true
   },
