@@ -4886,3 +4886,70 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 22:37:06.932] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=62, z=14}
 [06Dec2024 22:37:15.114] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=26, y=62, z=2}
 [06Dec2024 22:37:35.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06Dec2024 22:37:59.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[06Dec2024 22:38:08.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks moved too quickly! 7.344934533756259,7.248399988412871,0.8354672990278686
+[06Dec2024 22:38:15.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Super Creeps]
+[06Dec2024 22:38:18.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4369ms or 87 ticks behind
+[06Dec2024 22:38:44.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 22:38:45.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 614.500000, 60.500000, 263.500000]
+[06Dec2024 22:38:48.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2284ms or 45 ticks behind
+[06Dec2024 22:38:50.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 22:39:06.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> nez supuestamente una de las posibles soluciones es hacer espacio en las ruedas de agua del generador de abajo y la parte de arriba
+[06Dec2024 22:39:09.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> pero dudo de ello
+[06Dec2024 22:39:43.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> la parte q colocaste agua al inicio q es
+[06Dec2024 22:39:46.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> en una escalera en el medio
+[06Dec2024 22:39:58.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> bueno dejame probar una cosa
+[06Dec2024 22:40:04.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
+[06Dec2024 22:40:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 22:40:28.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Spectator Mode]
+[06Dec2024 22:40:35.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
+[06Dec2024 22:40:43.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 22:40:51.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> tienes mas bloques?
+[06Dec2024 22:41:09.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> hay q hacer espacio supuestamente pero dudo q ese sea el problema la vrd
+[06Dec2024 22:41:18.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> por q la parte de arriba el molino de agua q funcion tiene
+[06Dec2024 22:41:29.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> por q la parte de arriba el molino de agua q funcion tiene
+[06Dec2024 22:41:38.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> estoy preguntando
+[06Dec2024 22:41:40.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> q cual tiene
+[06Dec2024 22:41:48.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> regular la velocidad o generar potencia
+[06Dec2024 22:42:03.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> LA RUEDITA DE ARRIBA DE AGUA PA Q LA USAMOS
+[06Dec2024 22:42:21.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> la velocidad se regula en el mecanismo de abajo?
+[06Dec2024 22:42:29.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 22:42:34.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 22:42:34.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Spectator Mode]
+[06Dec2024 22:42:41.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> q
+[06Dec2024 22:42:58.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> y cuando le dejamos mas potencia se estanca
+[06Dec2024 22:43:05.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> o no
+[06Dec2024 22:43:09.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> estoy preguntando
+[06Dec2024 22:43:16.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> por q esto lo q hace es relentizar o no
+[06Dec2024 22:43:40.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e2934c33-e8a5-38b9-8912-31948e1e3b7a timed out
+[06Dec2024 22:43:40.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Secrethaks
+[06Dec2024 22:43:40.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[06Dec2024 22:43:47.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 22:43:48.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 22:43:48.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
+[06Dec2024 22:44:09.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[06Dec2024 22:44:17.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
+[06Dec2024 22:44:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Spectator Mode]
+[06Dec2024 22:44:30.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
+[06Dec2024 22:44:47.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 22:44:54.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 22:45:03.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e2934c33-e8a5-38b9-8912-31948e1e3b7a timed out
+[06Dec2024 22:45:03.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Secrethaks
+[06Dec2024 22:45:03.392] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[06Dec2024 22:45:10.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks moved too quickly! 8.684121638778834,0.2277792520400439,-5.283624946659302
+[06Dec2024 22:45:11.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 22:45:12.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 22:45:12.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
+[06Dec2024 22:45:23.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> supuestamente mientras mas espacio y agua se muevan entre las paletas de agua mas genera pero por eso preguntaba q si el regulador de velocidad era por que si metiamos mucha velocidad la maquina dejaba de funcionar
+[06Dec2024 22:45:41.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> supuestamente mientras mas espacio y agua se muevan entre las paletas de agua mas genera pero por eso preguntaba q si el regulador de velocidad era por que si metiamos mucha velocidad la maquina dejaba de funcionar
+[06Dec2024 22:46:00.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> no trabes la rueda
+[06Dec2024 22:46:16.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 22:46:27.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 22:46:33.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 22:46:45.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> pero responde, lo del speed controler del generador de agua lo pones para que vaya mas lento abajo o el q
+[06Dec2024 22:46:59.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Spectator Mode]
+[06Dec2024 22:47:09.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> pero responde, lo del speed controler del generador de agua lo pones para que vaya mas lento abajo o el q
+[06Dec2024 22:47:27.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[06Dec2024 22:47:32.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
+[06Dec2024 22:47:33.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> pero cual es el problema
+[06Dec2024 22:47:50.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> va igual
