@@ -8670,6 +8670,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/lens_speed": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/livingrock_wall": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
@@ -8688,6 +8694,36 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/small_lime_industrial_lamp": {
+    "criteria": {
+      "has_small_lime_industrial_lamp": "2024-12-07 15:53:51 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/orange_industrial_lamp": {
+    "criteria": {
+      "has_orange_industrial_lamp": "2024-12-07 15:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2024-12-07 15:51:31 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_orange_industrial_lamp": {
+    "criteria": {
+      "has_small_orange_industrial_lamp": "2024-12-07 15:54:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_weight": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/polished_cut_bauxite_slab_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
@@ -8697,6 +8733,12 @@
   "botania:recipes/redstone/red_string_fertilizer": {
     "criteria": {
       "has_base_block": "2024-12-07 14:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:54:08 +0000"
     },
     "done": true
   },
@@ -8718,6 +8760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2024-12-07 15:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-07 14:46:38 +0000"
@@ -8730,9 +8778,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-07 15:52:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_pink": {
     "criteria": {
       "has_item": "2024-12-07 14:25:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/yellow_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-07 15:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2024-12-07 15:51:31 +0000"
     },
     "done": true
   },
@@ -8748,6 +8814,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_orange_dye": {
+    "criteria": {
+      "forge:dyes/orange": "2024-12-07 15:54:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_light_gray": {
     "criteria": {
       "has_item": "2024-12-07 14:34:29 +0000"
@@ -8757,6 +8829,30 @@
   "botania:recipes/misc/conversions/blue_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2024-12-07 15:15:11 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-07 15:52:18 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_magenta_industrial_lamp": {
+    "criteria": {
+      "has_small_magenta_industrial_lamp": "2024-12-07 15:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:53:51 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_black_industrial_lamp": {
+    "criteria": {
+      "has_small_black_industrial_lamp": "2024-12-07 15:51:58 +0000"
     },
     "done": true
   },
@@ -8826,9 +8922,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-07 15:52:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_power": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:54:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/polished_livingrock": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
+    "criteria": {
+      "forge:dyes/yellow": "2024-12-07 15:52:18 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_purple_industrial_lamp": {
+    "criteria": {
+      "has_small_purple_industrial_lamp": "2024-12-07 15:51:31 +0000"
     },
     "done": true
   },
@@ -8844,9 +8970,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:52:18 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/purple_industrial_lamp": {
+    "criteria": {
+      "has_purple_industrial_lamp": "2024-12-07 15:51:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/obedience_stick": {
     "criteria": {
       "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-07 15:52:18 +0000"
     },
     "done": true
   },
@@ -8877,6 +9021,12 @@
   "botania:recipes/redstone/open_crate": {
     "criteria": {
       "has_item": "2024-12-07 15:26:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/orange_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-07 15:54:16 +0000"
     },
     "done": true
   },
@@ -8916,6 +9066,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/lens_phantom": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/red_string_relay": {
     "criteria": {
       "has_base_block": "2024-12-07 14:11:37 +0000"
@@ -8931,6 +9087,36 @@
   "botania:recipes/tools/manasteel_shears": {
     "criteria": {
       "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_magnet": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_messenger": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2024-12-07 15:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-07 15:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:53:51 +0000"
     },
     "done": true
   },
@@ -8955,6 +9141,12 @@
   "botania:recipes/decorations/mana_fluxfield": {
     "criteria": {
       "has_alt_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/yellow_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-07 15:52:09 +0000"
     },
     "done": true
   },
@@ -9024,9 +9216,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/yellow_bowl": {
+    "criteria": {
+      "has_yellow_bowl": "2024-12-07 15:52:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_magenta_dye": {
+    "criteria": {
+      "forge:dyes/magenta": "2024-12-07 15:54:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/pump": {
     "criteria": {
       "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-07 15:56:58 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/orange_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-07 15:54:18 +0000"
     },
     "done": true
   },
@@ -9042,15 +9258,33 @@
     },
     "done": true
   },
+  "botania:recipes/misc/lens_time": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/blue_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-07 14:24:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2024-12-07 15:53:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/framed_livingwood": {
     "criteria": {
       "has_item": "2024-12-07 15:26:16 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2024-12-07 15:52:18 +0000"
     },
     "done": true
   },
@@ -9063,6 +9297,12 @@
   "botania:recipes/misc/petal_cyan": {
     "criteria": {
       "has_item": "2024-12-07 14:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2024-12-07 15:54:18 +0000"
     },
     "done": true
   },
@@ -9132,6 +9372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:51:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/red_pavement": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
@@ -9156,9 +9402,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-07 15:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-12-07 15:51:58 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_blue": {
     "criteria": {
       "has_item": "2024-12-07 15:15:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_plate": {
+    "criteria": {
+      "has_yellow_plate": "2024-12-07 15:52:18 +0000"
     },
     "done": true
   },
@@ -9186,6 +9462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:54:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/light_gray_petal_block": {
     "criteria": {
       "has_item": "2024-12-07 14:34:29 +0000"
@@ -9207,6 +9489,12 @@
   "botania:recipes/tools/manasteel_pick": {
     "criteria": {
       "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2024-12-07 15:52:18 +0000"
     },
     "done": true
   },
@@ -9240,6 +9528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:52:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/livingwood_planks_slab": {
     "criteria": {
       "has_item": "2024-12-07 15:26:16 +0000"
@@ -9258,9 +9552,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
+    "criteria": {
+      "forge:dyes/black": "2024-12-07 15:51:58 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2024-12-07 14:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_lime_dye": "2024-12-07 15:53:51 +0000"
     },
     "done": true
   },
@@ -9285,6 +9591,12 @@
   "botania:recipes/decorations/diluted_pool": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_explosive": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
     },
     "done": true
   },
@@ -9321,6 +9633,12 @@
   "botania:recipes/decorations/orange_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-07 14:25:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_industrial_lamp": {
+    "criteria": {
+      "has_black_industrial_lamp": "2024-12-07 15:51:58 +0000"
     },
     "done": true
   },
@@ -9390,15 +9708,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:53:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/hourglass": {
     "criteria": {
       "has_item": "2024-12-07 15:31:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2024-12-07 15:54:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/magenta_industrial_lamp": {
+    "criteria": {
+      "has_magenta_industrial_lamp": "2024-12-07 15:54:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2024-12-07 14:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:51:58 +0000"
     },
     "done": true
   },
@@ -9420,9 +9768,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:51:58 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/lime_petal_block": {
     "criteria": {
       "has_item": "2024-12-07 15:22:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_bounce": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_yellow": {
+    "criteria": {
+      "has_item": "2024-12-07 15:52:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cup": {
+    "criteria": {
+      "has_yellow_cup": "2024-12-07 15:52:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_influence": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
     },
     "done": true
   },
@@ -9462,6 +9840,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/lens_mine": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/pink_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-07 14:25:04 +0000"
@@ -9486,6 +9870,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/husk_helmet3": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-07 15:52:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_helmet2": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-07 15:52:18 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/small_bauxite_brick_wall_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
@@ -9498,9 +9894,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/yellow_crockery_combo": {
+    "criteria": {
+      "has_yellow_crockery_combo": "2024-12-07 15:52:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/gray_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-07 14:25:05 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-07 15:51:31 +0000"
     },
     "done": true
   },
@@ -9510,15 +9918,39 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_yellow_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-07 15:52:09 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_green": {
     "criteria": {
       "has_item": "2024-12-07 13:54:01 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_lime_dye": {
+    "criteria": {
+      "forge:dyes/lime": "2024-12-07 15:53:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-07 15:54:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/yellow_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-07 14:25:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_orange_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-07 15:54:16 +0000"
     },
     "done": true
   },
@@ -9570,9 +10002,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:54:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/mana_spreader": {
     "criteria": {
       "has_item": "2024-12-07 13:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-07 15:57:03 +0000"
     },
     "done": true
   },
@@ -9627,6 +10071,18 @@
   "botania:recipes/misc/conversions/black_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2024-12-07 15:22:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_light": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/lime_industrial_lamp": {
+    "criteria": {
+      "has_lime_industrial_lamp": "2024-12-07 15:53:51 +0000"
     },
     "done": true
   },
@@ -9690,9 +10146,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:51:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_light_gray_double": {
     "criteria": {
       "has_alt_item": "2024-12-07 14:34:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_paint": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
     },
     "done": true
   },
@@ -9702,9 +10170,33 @@
     },
     "done": true
   },
+  "botania:recipes/misc/lens_fire": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_light_alt": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/manasteel_block": {
     "criteria": {
       "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/black_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-07 15:51:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/orange_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-07 15:54:16 +0000"
     },
     "done": true
   },
@@ -9720,6 +10212,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:54:08 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/one_way_glass": {
+    "criteria": {
+      "has_wood": "2024-12-07 15:51:58 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_axe": {
     "criteria": {
       "has_item": "2024-12-07 15:29:37 +0000"
@@ -9732,9 +10236,27 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_orange": {
+    "criteria": {
+      "has_item": "2024-12-07 15:54:16 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_white_double": {
     "criteria": {
       "has_alt_item": "2024-12-07 14:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-07 15:57:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_piston": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
     },
     "done": true
   },
@@ -9750,9 +10272,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
+    "criteria": {
+      "forge:dyes/purple": "2024-12-07 15:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_gravity": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
     },
     "done": true
   },
@@ -9768,9 +10302,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2024-12-07 15:54:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/forest_eye": {
     "criteria": {
       "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_damage": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_efficiency": {
+    "criteria": {
+      "has_item": "2024-12-07 15:39:15 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-07 15:53:51 +0000"
     },
     "done": true
   },
@@ -9786,9 +10344,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-07 15:51:58 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/blue_petal_block": {
     "criteria": {
       "has_item": "2024-12-07 15:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 15:51:58 +0000"
     },
     "done": true
   },
