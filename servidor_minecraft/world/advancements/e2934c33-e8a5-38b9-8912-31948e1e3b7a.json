@@ -418,6 +418,7 @@
       "golden_apple": "2024-12-06 16:09:37 +0000",
       "rotten_flesh": "2024-12-04 22:51:41 +0000",
       "glow_berries": "2024-12-06 14:40:25 +0000",
+      "mushroom_stew": "2024-12-07 17:42:11 +0000",
       "carrot": "2024-12-06 14:20:39 +0000"
     },
     "done": false
@@ -1519,6 +1520,7 @@
       "minecraft:creeper": "2024-12-06 22:30:38 +0000",
       "minecraft:zombified_piglin": "2024-12-06 19:23:29 +0000",
       "minecraft:witch": "2024-12-06 13:37:38 +0000",
+      "minecraft:husk": "2024-12-07 17:38:15 +0000",
       "minecraft:cave_spider": "2024-12-06 14:37:07 +0000",
       "minecraft:zombie": "2024-12-06 13:39:46 +0000"
     },
@@ -9017,6 +9019,30 @@
   "botania:recipes/transportation/ghost_rail": {
     "criteria": {
       "has_item": "2024-12-07 16:17:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2024-12-07 17:43:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_dark_oak_sign": "2024-12-07 17:43:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-07 17:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-07 17:41:28 +0000"
     },
     "done": true
   },

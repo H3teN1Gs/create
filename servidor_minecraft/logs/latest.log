@@ -5591,3 +5591,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Dec2024 17:33:04.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
 [07Dec2024 17:33:04.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
 [07Dec2024 17:33:04.584] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[07Dec2024 17:35:32.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[07Dec2024 17:35:35.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura fell from a high place
+[07Dec2024 17:35:35.736] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[07Dec2024 17:35:38.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [An Ecstatic Vivace]
+[07Dec2024 17:36:00.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[07Dec2024 17:36:31.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Secrethaks) moved too quickly! 0.3641814998073869,-9.79672286446602,2.0539719044116396
+[07Dec2024 17:37:15.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> a
+[07Dec2024 17:39:05.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Husk
+[07Dec2024 17:39:05.275] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[07Dec2024 17:42:06.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[07Dec2024 17:43:05.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nezmanmatalaura lost connection: Disconnected
+[07Dec2024 17:43:05.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura left the game
+[07Dec2024 17:43:05.765] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nezmanmatalaura
+[07Dec2024 17:43:54.595] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e2934c33-e8a5-38b9-8912-31948e1e3b7a timed out
+[07Dec2024 17:43:54.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Secrethaks
+[07Dec2024 17:43:54.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[07Dec2024 17:44:02.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks lost connection: Timed out
+[07Dec2024 17:44:02.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks left the game
+[07Dec2024 17:44:02.685] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Secrethaks
