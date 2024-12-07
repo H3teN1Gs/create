@@ -4510,3 +4510,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Dec2024 14:35:11.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
 [07Dec2024 14:35:11.239] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
 [07Dec2024 14:35:55.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Electric Magic]
+[07Dec2024 14:41:42.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Cave Spider
+[07Dec2024 14:41:42.285] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[07Dec2024 14:42:05.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nezmanmatalaura[/100.92.220.41:54644] logged in with entity id 24711 at (610.3978429754704, 60.0, 263.4258986255533)
+[07Dec2024 14:42:05.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura joined the game
+[07Dec2024 14:42:05.418] [Server thread/INFO] [Jade/]: Syncing config to nezmanmatalaura (95937cc7-1c20-3aff-bb1b-14ad16f04219)
+[07Dec2024 14:42:06.629] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nezmanmatalaura (18)
+[07Dec2024 14:42:06.630] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nezmanmatalaura
+[07Dec2024 14:42:25.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 95937cc7-1c20-3aff-bb1b-14ad16f04219
+[07Dec2024 14:42:26.088] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 95937cc7-1c20-3aff-bb1b-14ad16f04219
+[07Dec2024 14:42:26.088] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nezmanmatalaura (95937cc7-1c20-3aff-bb1b-14ad16f04219) successfully connected to voice chat
+[07Dec2024 14:43:16.839] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Olsen the Head of Potatoes'/24868, l='ServerLevel[world]', x=578.35, y=20.00, z=200.65] died: Olsen the Head of Potatoes was slain by Secrethaks
+[07Dec2024 14:43:18.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has completed the challenge [He Wasn't So Strong]
+[07Dec2024 14:48:07.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Dragon
+[07Dec2024 14:48:07.855] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[07Dec2024 14:49:51.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Captured!]
