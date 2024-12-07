@@ -4432,3 +4432,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Dec2024 12:51:10.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [A Realistical Logical Ideologist]
 [07Dec2024 12:52:16.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 614.500000, 60.500000, 263.500000]
 [07Dec2024 12:52:38.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> q
+[07Dec2024 13:11:28.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to Secrethaks]
+[07Dec2024 13:11:35.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 13:11:36.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
+[07Dec2024 13:11:36.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 13:11:36.434] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[07Dec2024 13:16:47.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to Secrethaks]
+[07Dec2024 13:17:26.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Skeleton
+[07Dec2024 13:17:26.448] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
