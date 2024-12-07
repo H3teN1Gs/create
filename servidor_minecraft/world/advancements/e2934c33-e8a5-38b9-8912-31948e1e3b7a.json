@@ -8210,9 +8210,21 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/small_bauxite_brick_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-07 13:51:25 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/polished_cut_bauxite_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
     },
     "done": true
   },
@@ -8264,15 +8276,33 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/cut_bauxite_brick_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_pillar_trim": {
     "criteria": {
       "has_granite_pillar_trim": "2024-12-07 13:51:25 +0000"
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/cut_bauxite_bricks_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_corner_trim": {
     "criteria": {
       "has_granite_corner_trim": "2024-12-07 13:51:25 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/small_bauxite_bricks_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
     },
     "done": true
   },
@@ -8294,9 +8324,45 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/cut_bauxite_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:13 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/polished_cut_bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/polished_cut_bauxite_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-07 13:51:25 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/polished_cut_bauxite_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:13 +0000"
     },
     "done": true
   },
@@ -8318,9 +8384,39 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/small_bauxite_brick_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_bauxite_brick_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/bauxite_pillar_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-07 13:51:25 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_bauxite_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/layered_bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
     },
     "done": true
   },
@@ -8354,15 +8450,39 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-07 13:51:25 +0000"
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/cut_bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-07 13:51:25 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/small_bauxite_brick_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_bauxite_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
     },
     "done": true
   },
@@ -8411,6 +8531,12 @@
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-07 13:51:25 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_bauxite_brick_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
     },
     "done": true
   },

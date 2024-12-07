@@ -4502,3 +4502,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Dec2024 14:07:16.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
 [07Dec2024 14:07:16.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
 [07Dec2024 14:07:16.302] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[07Dec2024 14:16:14.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported Secrethaks to capybarav2]
+[07Dec2024 14:26:52.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Zombie
+[07Dec2024 14:26:52.445] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved

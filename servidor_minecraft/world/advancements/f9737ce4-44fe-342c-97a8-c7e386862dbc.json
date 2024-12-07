@@ -8688,9 +8688,45 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_fertilizer": {
+    "criteria": {
+      "has_base_block": "2024-12-07 14:18:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-07 14:11:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/redstone_spreader": {
+    "criteria": {
+      "has_item": "2024-12-07 14:11:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/green_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-07 14:11:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/white_pavement": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-07 14:17:51 +0000"
     },
     "done": true
   },
@@ -8730,15 +8766,39 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_gray": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_orange": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/mana_detector": {
     "criteria": {
       "has_alt_item": "2024-12-07 13:51:17 +0000"
     },
     "done": true
   },
+  "botania:recipes/decorations/brown_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 14:24:57 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/horn_grass": {
     "criteria": {
       "has_item": "2024-12-07 13:44:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_relay": {
+    "criteria": {
+      "has_base_block": "2024-12-07 14:11:37 +0000"
     },
     "done": true
   },
@@ -8754,9 +8814,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/light_gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:07 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/cut_bauxite_wall_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-07 14:17:51 +0000"
     },
     "done": true
   },
@@ -8769,6 +8847,18 @@
   "botania:recipes/building_blocks/blue_pavement": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 14:24:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:40 +0000"
     },
     "done": true
   },
@@ -8787,6 +8877,12 @@
   "botania:recipes/building_blocks/red_pavement": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:34 +0000"
     },
     "done": true
   },
@@ -8814,6 +8910,18 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/red_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/livingwood_bow": {
+    "criteria": {
+      "has_twig": "2024-12-07 14:12:24 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/bauxite_pillar_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
@@ -8826,15 +8934,45 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/diluted_pool": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
     },
     "done": true
   },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-07 14:11:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/orange_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/black_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-07 13:54:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_green": {
+    "criteria": {
+      "has_item": "2024-12-07 14:11:31 +0000"
     },
     "done": true
   },
@@ -8880,9 +9018,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:00 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/cut_bauxite_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:04 +0000"
     },
     "done": true
   },
@@ -8904,9 +9054,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_magenta": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_green": {
     "criteria": {
       "has_item": "2024-12-07 13:54:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/yellow_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:01 +0000"
     },
     "done": true
   },
@@ -8916,15 +9084,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-07 14:17:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/livingwood_planks": {
     "criteria": {
       "has_item": "2024-12-07 13:44:46 +0000"
     },
     "done": true
   },
+  "botania:recipes/decorations/cyan_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2024-12-07 14:24:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/mana_spreader": {
     "criteria": {
       "has_item": "2024-12-07 13:44:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:07 +0000"
     },
     "done": true
   },
@@ -8952,9 +9144,27 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_red": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/fertilizer_dye": {
+    "criteria": {
+      "has_the_recipe": "2024-12-07 14:18:26 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/incense_plate": {
     "criteria": {
       "has_item": "2024-12-07 13:44:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_yellow": {
+    "criteria": {
+      "has_item": "2024-12-07 14:25:01 +0000"
     },
     "done": true
   },
@@ -8967,6 +9177,12 @@
   "botania:main/mana_pool_pickup_lexicon": {
     "criteria": {
       "pickup": "2024-12-07 13:51:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown": {
+    "criteria": {
+      "has_item": "2024-12-07 14:24:57 +0000"
     },
     "done": true
   },
