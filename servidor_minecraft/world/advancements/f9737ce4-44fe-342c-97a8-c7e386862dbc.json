@@ -10453,6 +10453,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dirt_rod": {
+    "criteria": {
+      "has_item": "2024-12-07 17:53:04 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/auto_crafting_halo": {
     "criteria": {
       "has_item": "2024-12-07 17:20:26 +0000"
@@ -10474,6 +10480,12 @@
   "botania:recipes/tools/slingshot": {
     "criteria": {
       "has_item": "2024-12-07 17:29:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/temperance_stone": {
+    "criteria": {
+      "has_item": "2024-12-07 17:53:04 +0000"
     },
     "done": true
   },
