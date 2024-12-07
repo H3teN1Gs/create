@@ -5248,3 +5248,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Dec2024 17:03:04.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks blew up
 [07Dec2024 17:03:04.812] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
 [07Dec2024 17:03:12.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks moved too quickly! -1.5298468399047351,-6.4538865744569165,15.241665153306712
+[07Dec2024 17:03:30.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 614.500000, 60.500000, 263.500000]
+[07Dec2024 17:10:29.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capybarav2[/100.83.167.61:55539] logged in with entity id 126921 at (576.7991675389808, 60.0, 274.5811053494369)
+[07Dec2024 17:10:29.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 joined the game
+[07Dec2024 17:10:29.262] [Server thread/INFO] [Jade/]: Syncing config to capybarav2 (f9737ce4-44fe-342c-97a8-c7e386862dbc)
+[07Dec2024 17:10:29.430] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capybarav2 (18)
+[07Dec2024 17:10:29.430] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capybarav2
+[07Dec2024 17:10:41.347] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f9737ce4-44fe-342c-97a8-c7e386862dbc
+[07Dec2024 17:10:42.349] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f9737ce4-44fe-342c-97a8-c7e386862dbc
+[07Dec2024 17:10:42.350] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player capybarav2 (f9737ce4-44fe-342c-97a8-c7e386862dbc) successfully connected to voice chat
+[07Dec2024 17:11:31.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 614.500000, 60.500000, 263.500000]
+[07Dec2024 17:11:37.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks froze to death
+[07Dec2024 17:11:37.589] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
