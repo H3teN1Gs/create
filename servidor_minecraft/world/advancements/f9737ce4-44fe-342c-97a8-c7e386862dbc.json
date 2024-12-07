@@ -8676,6 +8676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/small_bauxite_brick_stairs_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
@@ -8691,6 +8697,12 @@
   "botania:recipes/redstone/red_string_fertilizer": {
     "criteria": {
       "has_base_block": "2024-12-07 14:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
     },
     "done": true
   },
@@ -8712,9 +8724,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dodge_ring": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_pink": {
     "criteria": {
       "has_item": "2024-12-07 14:25:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-07 15:31:36 +0000"
     },
     "done": true
   },
@@ -8742,6 +8766,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_sword": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/white_pavement": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
@@ -8757,6 +8787,12 @@
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2024-12-07 14:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
     },
     "done": true
   },
@@ -8778,6 +8814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_void": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
@@ -8787,6 +8829,24 @@
   "botania:recipes/building_blocks/polished_livingrock": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/misc/sacrificial_dagger": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/obedience_stick": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
     },
     "done": true
   },
@@ -8817,6 +8877,12 @@
   "botania:recipes/redstone/open_crate": {
     "criteria": {
       "has_item": "2024-12-07 15:26:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
     },
     "done": true
   },
@@ -8862,15 +8928,51 @@
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_shears": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_lime_double": {
     "criteria": {
       "has_alt_item": "2024-12-07 15:22:28 +0000"
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_magenta_double": {
     "criteria": {
       "has_alt_item": "2024-12-07 15:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_distributor": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
     },
     "done": true
   },
@@ -8922,6 +9024,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_brown": {
     "criteria": {
       "has_item": "2024-12-07 14:34:27 +0000"
@@ -8946,6 +9054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_cyan": {
     "criteria": {
       "has_item": "2024-12-07 14:25:40 +0000"
@@ -8964,15 +9078,51 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/travel_belt": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/polished_cut_bauxite_stairs_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
     },
     "done": true
   },
+  "botania:recipes/tools/monocle": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/building_blocks/botania/sign_post_livingwood": {
     "criteria": {
       "has_planks": "2024-12-07 15:26:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lava_pendant": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
     },
     "done": true
   },
@@ -8994,6 +9144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_lime": {
     "criteria": {
       "has_item": "2024-12-07 15:22:28 +0000"
@@ -9012,6 +9168,18 @@
     },
     "done": true
   },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/small_bauxite_brick_slab_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
@@ -9024,9 +9192,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/magenta_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2024-12-07 15:15:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
     },
     "done": true
   },
@@ -9090,6 +9270,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_black_double": {
     "criteria": {
       "has_alt_item": "2024-12-07 15:22:31 +0000"
@@ -9111,6 +9297,12 @@
   "botania:recipes/misc/dye_white": {
     "criteria": {
       "has_item": "2024-12-07 14:59:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/vial": {
+    "criteria": {
+      "has_item": "2024-12-07 15:31:43 +0000"
     },
     "done": true
   },
@@ -9144,9 +9336,45 @@
     },
     "done": true
   },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/cut_bauxite_slab_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/knockback_belt": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
     },
     "done": true
   },
@@ -9159,6 +9387,12 @@
   "botania:recipes/building_blocks/livingrock_slab": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/hourglass": {
+    "criteria": {
+      "has_item": "2024-12-07 15:31:43 +0000"
     },
     "done": true
   },
@@ -9189,6 +9423,12 @@
   "botania:recipes/decorations/lime_petal_block": {
     "criteria": {
       "has_item": "2024-12-07 15:22:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
     },
     "done": true
   },
@@ -9225,6 +9465,18 @@
   "botania:recipes/decorations/pink_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-07 14:25:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/magnet_ring": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
     },
     "done": true
   },
@@ -9294,6 +9546,18 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/brown_petal_block": {
     "criteria": {
       "has_item": "2024-12-07 14:34:27 +0000"
@@ -9318,6 +9582,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/mana_glass_pane": {
+    "criteria": {
+      "has_item": "2024-12-07 15:31:43 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/mossy_livingwood_planks_vine": {
     "criteria": {
       "has_item": "2024-12-07 15:26:16 +0000"
@@ -9333,6 +9603,12 @@
   "botania:recipes/building_blocks/livingrock_stairs": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
     },
     "done": true
   },
@@ -9354,15 +9630,39 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/cut_bauxite_brick_wall_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
     },
     "done": true
   },
+  "botania:recipes/misc/lens_normal": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2024-12-07 13:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
     },
     "done": true
   },
@@ -9375,6 +9675,12 @@
   "botania:recipes/misc/petal_red": {
     "criteria": {
       "has_item": "2024-12-07 14:25:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
     },
     "done": true
   },
@@ -9396,6 +9702,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/manasteel_block": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_yellow": {
     "criteria": {
       "has_item": "2024-12-07 14:25:01 +0000"
@@ -9405,6 +9717,18 @@
   "botania:recipes/misc/livingwood_twig": {
     "criteria": {
       "has_item": "2024-12-07 13:44:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_axe": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2024-12-07 15:31:36 +0000"
     },
     "done": true
   },
@@ -9426,6 +9750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-07 15:31:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/black_petal_block": {
     "criteria": {
       "has_item": "2024-12-07 15:22:31 +0000"
@@ -9435,6 +9765,12 @@
   "botania:recipes/misc/petal_brown": {
     "criteria": {
       "has_item": "2024-12-07 14:24:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/forest_eye": {
+    "criteria": {
+      "has_item": "2024-12-07 15:29:37 +0000"
     },
     "done": true
   },
@@ -9453,6 +9789,12 @@
   "botania:recipes/decorations/blue_petal_block": {
     "criteria": {
       "has_item": "2024-12-07 15:15:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-07 15:31:36 +0000"
     },
     "done": true
   },
