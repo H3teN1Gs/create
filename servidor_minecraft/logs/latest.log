@@ -5260,3 +5260,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Dec2024 17:11:31.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 614.500000, 60.500000, 263.500000]
 [07Dec2024 17:11:37.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks froze to death
 [07Dec2024 17:11:37.589] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[07Dec2024 17:13:44.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 17:13:44.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 17:13:45.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
+[07Dec2024 17:13:45.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 17:13:45.751] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[07Dec2024 17:18:51.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 614.500000, 60.500000, 263.500000]
