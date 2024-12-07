@@ -9059,5 +9059,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-07 18:02:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
