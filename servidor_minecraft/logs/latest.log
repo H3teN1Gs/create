@@ -4422,3 +4422,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Dec2024 12:47:34.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f9737ce4-44fe-342c-97a8-c7e386862dbc
 [07Dec2024 12:47:35.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f9737ce4-44fe-342c-97a8-c7e386862dbc
 [07Dec2024 12:47:35.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player capybarav2 (f9737ce4-44fe-342c-97a8-c7e386862dbc) successfully connected to voice chat
+[07Dec2024 12:48:31.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Sky of Beginning]
+[07Dec2024 12:49:38.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported capybarav2 to Secrethaks]
+[07Dec2024 12:50:17.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 12:50:17.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 12:50:19.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
+[07Dec2024 12:50:19.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 12:50:19.884] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[07Dec2024 12:51:10.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [A Realistical Logical Ideologist]
+[07Dec2024 12:52:16.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 614.500000, 60.500000, 263.500000]
+[07Dec2024 12:52:38.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> q
