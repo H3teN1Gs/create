@@ -4557,3 +4557,50 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Dec2024 15:00:51.290] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
 [07Dec2024 15:01:40.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
 [07Dec2024 15:01:40.811] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[07Dec2024 15:01:48.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[07Dec2024 15:01:48.109] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[07Dec2024 15:01:57.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[07Dec2024 15:02:42.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[07Dec2024 15:02:42.260] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[07Dec2024 15:02:56.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[07Dec2024 15:02:56.363] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[07Dec2024 15:03:12.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[07Dec2024 15:03:19.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[07Dec2024 15:04:28.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[07Dec2024 15:04:28.400] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[07Dec2024 15:04:51.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[07Dec2024 15:04:51.761] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[07Dec2024 15:04:59.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[07Dec2024 15:04:59.694] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[07Dec2024 15:05:04.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[07Dec2024 15:05:39.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[07Dec2024 15:05:44.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Zombie
+[07Dec2024 15:05:44.108] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[07Dec2024 15:06:00.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nezmanmatalaura lost connection: Disconnected
+[07Dec2024 15:06:00.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura left the game
+[07Dec2024 15:06:00.646] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nezmanmatalaura
+[07Dec2024 15:06:16.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nezmanmatalaura[/100.92.220.41:54838] logged in with entity id 39395 at (620.4749530995828, 60.0, 263.8695840599901)
+[07Dec2024 15:06:16.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura joined the game
+[07Dec2024 15:06:16.192] [Server thread/INFO] [Jade/]: Syncing config to nezmanmatalaura (95937cc7-1c20-3aff-bb1b-14ad16f04219)
+[07Dec2024 15:06:16.311] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nezmanmatalaura (18)
+[07Dec2024 15:06:16.311] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nezmanmatalaura
+[07Dec2024 15:06:26.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 95937cc7-1c20-3aff-bb1b-14ad16f04219
+[07Dec2024 15:06:27.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 95937cc7-1c20-3aff-bb1b-14ad16f04219
+[07Dec2024 15:06:27.241] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nezmanmatalaura (95937cc7-1c20-3aff-bb1b-14ad16f04219) successfully connected to voice chat
+[07Dec2024 15:06:45.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was killed
+[07Dec2024 15:06:45.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed nezmanmatalaura]
+[07Dec2024 15:06:45.254] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[07Dec2024 15:10:49.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 15:10:49.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 15:10:51.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
+[07Dec2024 15:10:51.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 15:10:51.498] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[07Dec2024 15:14:13.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 614.500000, 60.500000, 263.500000]
+[07Dec2024 15:17:58.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 614.500000, 60.500000, 263.500000]
+[07Dec2024 15:18:08.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to Secrethaks]
+[07Dec2024 15:18:27.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Hot Stuff]
+[07Dec2024 15:20:00.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 614.500000, 60.500000, 263.500000]
+[07Dec2024 15:21:50.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 15:21:51.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
+[07Dec2024 15:21:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 15:21:51.341] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved

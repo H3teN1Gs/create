@@ -8730,9 +8730,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/blue_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-07 15:15:11 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/white_pavement": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/magenta_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-07 15:15:07 +0000"
     },
     "done": true
   },
@@ -8826,6 +8838,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_magenta_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-07 15:15:07 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_pool": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
@@ -8859,6 +8877,12 @@
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2024-12-07 14:17:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-07 15:15:11 +0000"
     },
     "done": true
   },
@@ -8910,6 +8934,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_magenta": {
+    "criteria": {
+      "has_item": "2024-12-07 15:15:07 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/red_pavement": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
@@ -8922,6 +8952,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_blue": {
+    "criteria": {
+      "has_item": "2024-12-07 15:15:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-07 14:59:34 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/small_bauxite_brick_slab_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
@@ -8931,6 +8973,12 @@
   "botania:recipes/decorations/light_gray_petal_block": {
     "criteria": {
       "has_item": "2024-12-07 14:34:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/magenta_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-07 15:15:07 +0000"
     },
     "done": true
   },
@@ -8976,6 +9024,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-07 14:59:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/magenta_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-07 14:25:06 +0000"
@@ -8991,6 +9045,12 @@
   "botania:recipes/decorations/white_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-07 14:25:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_white": {
+    "criteria": {
+      "has_item": "2024-12-07 14:59:34 +0000"
     },
     "done": true
   },
@@ -9252,6 +9312,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_white_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-07 14:59:34 +0000"
+    },
+    "done": true
+  },
   "botania:main/generating_flower": {
     "criteria": {
       "flower": "2024-12-07 14:35:55 +0000"
@@ -9273,6 +9339,12 @@
   "botania:recipes/misc/dye_red": {
     "criteria": {
       "has_item": "2024-12-07 14:34:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-07 15:15:11 +0000"
     },
     "done": true
   },
