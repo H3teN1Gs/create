@@ -4525,3 +4525,35 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Dec2024 14:48:07.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Dragon
 [07Dec2024 14:48:07.855] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
 [07Dec2024 14:49:51.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Captured!]
+[07Dec2024 14:55:07.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[07Dec2024 14:57:23.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=451, y=-19, z=29} BlockPos{x=450, y=-20, z=28}
+[07Dec2024 14:57:55.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[07Dec2024 14:57:55.278] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[07Dec2024 14:57:56.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Zombie
+[07Dec2024 14:57:56.613] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[07Dec2024 14:58:16.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e2934c33-e8a5-38b9-8912-31948e1e3b7a timed out
+[07Dec2024 14:58:16.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Secrethaks
+[07Dec2024 14:58:16.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[07Dec2024 14:58:26.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks lost connection: Disconnected
+[07Dec2024 14:58:26.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks left the game
+[07Dec2024 14:58:26.490] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Secrethaks
+[07Dec2024 14:58:43.226] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Secrethaks[/100.90.10.58:51238] logged in with entity id 35126 at (454.59000522715934, -20.0, 36.45233731997221)
+[07Dec2024 14:58:43.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks joined the game
+[07Dec2024 14:58:43.469] [Server thread/INFO] [Jade/]: Syncing config to Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a)
+[07Dec2024 14:58:43.687] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Secrethaks (18)
+[07Dec2024 14:58:43.688] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[07Dec2024 14:58:53.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[07Dec2024 14:58:54.763] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[07Dec2024 14:58:54.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
+[07Dec2024 14:59:48.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[07Dec2024 14:59:48.568] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[07Dec2024 15:00:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[07Dec2024 15:00:06.379] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[07Dec2024 15:00:18.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[07Dec2024 15:00:18.203] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[07Dec2024 15:00:34.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Zombie
+[07Dec2024 15:00:34.961] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[07Dec2024 15:00:51.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[07Dec2024 15:00:51.290] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[07Dec2024 15:01:40.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[07Dec2024 15:01:40.811] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
