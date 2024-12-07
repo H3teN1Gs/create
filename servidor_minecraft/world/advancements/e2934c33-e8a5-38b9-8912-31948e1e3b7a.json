@@ -8342,6 +8342,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2024-12-07 14:31:55 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/polished_cut_bauxite_wall_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 14:15:15 +0000"
@@ -8402,6 +8408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-07 14:31:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-07 13:51:25 +0000"
@@ -8432,6 +8444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-07 14:35:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-12-07 13:51:25 +0000"
@@ -8441,6 +8459,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-07 13:51:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2024-12-07 14:31:55 +0000"
     },
     "done": true
   },
@@ -8510,6 +8534,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2024-12-07 14:31:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-07 13:51:25 +0000"
@@ -8546,6 +8576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-07 14:35:48 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/granite_castel_tile_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-07 13:51:25 +0000"
@@ -8561,6 +8597,12 @@
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-07 13:51:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2024-12-07 14:31:55 +0000"
     },
     "done": true
   },

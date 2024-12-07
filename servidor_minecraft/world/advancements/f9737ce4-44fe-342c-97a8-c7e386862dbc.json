@@ -8718,6 +8718,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_light_gray": {
+    "criteria": {
+      "has_item": "2024-12-07 14:34:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/white_pavement": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
@@ -8739,6 +8745,12 @@
   "tfmg:recipes/building_blocks/cut_bauxite_bricks_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/brown_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-07 14:34:27 +0000"
     },
     "done": true
   },
@@ -8802,6 +8814,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/floating_endoflame": {
+    "criteria": {
+      "has_item": "2024-12-07 14:35:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_pool": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
@@ -8844,6 +8862,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_brown": {
+    "criteria": {
+      "has_item": "2024-12-07 14:34:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/blue_pavement": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
@@ -8868,6 +8892,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/red_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-07 14:34:24 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/polished_cut_bauxite_stairs_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
@@ -8889,6 +8919,12 @@
   "tfmg:recipes/building_blocks/small_bauxite_brick_slab_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-07 14:34:29 +0000"
     },
     "done": true
   },
@@ -8994,6 +9030,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-07 14:34:24 +0000"
+    },
+    "done": true
+  },
   "botania:main/mana_pool_pickup": {
     "criteria": {
       "pickup": "2024-12-07 13:51:35 +0000"
@@ -9003,6 +9045,18 @@
   "botania:recipes/building_blocks/yellow_pavement": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-07 14:34:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-07 14:34:29 +0000"
     },
     "done": true
   },
@@ -9102,6 +9156,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/brown_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-07 14:34:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_blue": {
     "criteria": {
       "has_item": "2024-12-07 14:24:55 +0000"
@@ -9123,6 +9183,12 @@
   "botania:recipes/building_blocks/livingrock_stairs": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-07 14:34:27 +0000"
     },
     "done": true
   },
@@ -9156,6 +9222,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_light_gray_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-07 14:34:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/incense_plate": {
     "criteria": {
       "has_item": "2024-12-07 13:44:46 +0000"
@@ -9174,6 +9246,12 @@
     },
     "done": true
   },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2024-12-07 14:35:55 +0000"
+    },
+    "done": true
+  },
   "botania:main/mana_pool_pickup_lexicon": {
     "criteria": {
       "pickup": "2024-12-07 13:51:35 +0000"
@@ -9183,6 +9261,12 @@
   "botania:recipes/misc/petal_brown": {
     "criteria": {
       "has_item": "2024-12-07 14:24:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_red": {
+    "criteria": {
+      "has_item": "2024-12-07 14:34:24 +0000"
     },
     "done": true
   },
