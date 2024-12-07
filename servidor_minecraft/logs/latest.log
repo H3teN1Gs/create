@@ -4604,3 +4604,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Dec2024 15:21:51.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
 [07Dec2024 15:21:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
 [07Dec2024 15:21:51.341] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[07Dec2024 15:24:34.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks lost connection: Disconnected
+[07Dec2024 15:24:34.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks left the game
+[07Dec2024 15:24:34.335] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Secrethaks

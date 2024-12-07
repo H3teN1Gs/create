@@ -8736,6 +8736,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/mossy_livingwood_planks": {
+    "criteria": {
+      "has_item": "2024-12-07 15:26:16 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/white_pavement": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
@@ -8796,9 +8802,27 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/livingwood_fence_gate": {
+    "criteria": {
+      "has_item": "2024-12-07 15:26:16 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_gray": {
     "criteria": {
       "has_item": "2024-12-07 14:25:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/open_crate": {
+    "criteria": {
+      "has_item": "2024-12-07 15:26:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/pattern_framed_livingwood": {
+    "criteria": {
+      "has_item": "2024-12-07 15:26:16 +0000"
     },
     "done": true
   },
@@ -8835,6 +8859,12 @@
   "botania:recipes/decorations/floating_endoflame": {
     "criteria": {
       "has_item": "2024-12-07 14:35:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_lime_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-07 15:22:28 +0000"
     },
     "done": true
   },
@@ -8910,6 +8940,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/framed_livingwood": {
+    "criteria": {
+      "has_item": "2024-12-07 15:26:16 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_cyan": {
     "criteria": {
       "has_item": "2024-12-07 14:25:40 +0000"
@@ -8934,6 +8970,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/building_blocks/botania/sign_post_livingwood": {
+    "criteria": {
+      "has_planks": "2024-12-07 15:26:16 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_magenta": {
     "criteria": {
       "has_item": "2024-12-07 15:15:07 +0000"
@@ -8949,6 +8991,12 @@
   "botania:recipes/misc/petal_light_blue": {
     "criteria": {
       "has_item": "2024-12-07 14:25:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_lime": {
+    "criteria": {
+      "has_item": "2024-12-07 15:22:28 +0000"
     },
     "done": true
   },
@@ -9012,6 +9060,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/livingwood_planks_slab": {
+    "criteria": {
+      "has_item": "2024-12-07 15:26:16 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/bauxite_pillar_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
@@ -9036,6 +9090,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_black_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-07 15:22:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/diluted_pool": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
@@ -9057,6 +9117,12 @@
   "botania:recipes/misc/petal_green_double": {
     "criteria": {
       "has_alt_item": "2024-12-07 14:11:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_black": {
+    "criteria": {
+      "has_item": "2024-12-07 15:22:31 +0000"
     },
     "done": true
   },
@@ -9117,6 +9183,12 @@
   "botania:recipes/misc/petal_red_double": {
     "criteria": {
       "has_alt_item": "2024-12-07 14:34:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/lime_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-07 15:22:28 +0000"
     },
     "done": true
   },
@@ -9246,6 +9318,18 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/mossy_livingwood_planks_vine": {
+    "criteria": {
+      "has_item": "2024-12-07 15:26:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks_stairs": {
+    "criteria": {
+      "has_item": "2024-12-07 15:26:16 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/livingrock_stairs": {
     "criteria": {
       "has_item": "2024-12-07 13:51:17 +0000"
@@ -9255,6 +9339,18 @@
   "botania:recipes/misc/petal_brown_double": {
     "criteria": {
       "has_alt_item": "2024-12-07 14:34:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_fence": {
+    "criteria": {
+      "has_item": "2024-12-07 15:26:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/black_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-07 15:22:31 +0000"
     },
     "done": true
   },
@@ -9330,9 +9426,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/black_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-07 15:22:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_brown": {
     "criteria": {
       "has_item": "2024-12-07 14:24:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/lime_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-07 15:22:28 +0000"
     },
     "done": true
   },
