@@ -4421,3 +4421,84 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Dec2024 13:34:06.444] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
 [07Dec2024 13:34:07.416] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
 [07Dec2024 13:34:07.424] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
+[07Dec2024 13:43:04.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capybarav2[/100.83.167.61:50321] logged in with entity id 3879 at (634.9891594021454, 60.0, 273.2132136101792)
+[07Dec2024 13:43:04.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 joined the game
+[07Dec2024 13:43:04.732] [Server thread/INFO] [Jade/]: Syncing config to capybarav2 (f9737ce4-44fe-342c-97a8-c7e386862dbc)
+[07Dec2024 13:43:05.472] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capybarav2 (18)
+[07Dec2024 13:43:05.474] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capybarav2
+[07Dec2024 13:43:17.183] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f9737ce4-44fe-342c-97a8-c7e386862dbc
+[07Dec2024 13:43:18.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f9737ce4-44fe-342c-97a8-c7e386862dbc
+[07Dec2024 13:43:18.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player capybarav2 (f9737ce4-44fe-342c-97a8-c7e386862dbc) successfully connected to voice chat
+[07Dec2024 13:44:02.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 614.500000, 60.500000, 263.500000]
+[07Dec2024 13:46:33.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 13:46:34.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
+[07Dec2024 13:46:34.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 13:46:34.481] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[07Dec2024 13:51:18.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=526, y=66, z=202} BlockPos{x=526, y=66, z=203}
+[07Dec2024 13:51:18.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=526, y=68, z=201} BlockPos{x=527, y=68, z=200}
+[07Dec2024 13:51:35.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Vivid Wave]
+[07Dec2024 13:51:41.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 614.500000, 60.500000, 263.500000]
+[07Dec2024 13:54:16.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to Secrethaks]
+[07Dec2024 14:03:54.036] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=547, y=63, z=327} BlockPos{x=547, y=62, z=325}
+[07Dec2024 14:04:38.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:38.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:38.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:38.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:38.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:38.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:38.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:38.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:38.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:38.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:38.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:38.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:38.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:38.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:39.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:40.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=324} BlockPos{x=557, y=64, z=325}
+[07Dec2024 14:04:52.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=558, y=68, z=326} BlockPos{x=559, y=68, z=327}
+[07Dec2024 14:04:55.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=559, y=65, z=321} BlockPos{x=560, y=65, z=322}
+[07Dec2024 14:04:55.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=558, y=65, z=321} BlockPos{x=560, y=65, z=322}
+[07Dec2024 14:04:55.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=559, y=65, z=321} BlockPos{x=560, y=65, z=322}
+[07Dec2024 14:05:27.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 614.500000, 60.500000, 263.500000]
+[07Dec2024 14:07:15.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 14:07:16.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
+[07Dec2024 14:07:16.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 14:07:16.302] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved

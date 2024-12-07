@@ -8238,51 +8238,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/apothecary_deepslate": {
-    "criteria": {
-      "has_item": "2024-12-07 12:55:40 +0000"
-    },
-    "done": true
-  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2024-12-07 12:48:31 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/twig_wand": {
-    "criteria": {
-      "has_item": "2024-12-07 12:55:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
-    "criteria": {
-      "forge:dyes/white": "2024-12-07 13:17:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2024-12-07 12:49:21 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/hollow_leggings": {
-    "criteria": {
-      "has_red_mushroom": "2024-12-07 13:16:26 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/purple_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2024-12-07 12:55:40 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_plate": {
-    "criteria": {
-      "has_white_plate": "2024-12-07 13:17:56 +0000"
     },
     "done": true
   },
@@ -8292,9 +8250,159 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye": {
+  "mca:recipes/misc/bouquet": {
     "criteria": {
-      "has_white_dye": "2024-12-07 13:17:56 +0000"
+      "has_item": "2024-12-07 12:48:31 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-12-07 12:48:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/lime_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 12:48:31 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-12-07 12:48:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_lime": {
+    "criteria": {
+      "has_item": "2024-12-07 12:48:31 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-12-07 12:48:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 12:49:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2024-12-07 12:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-07 12:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-07 12:49:21 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2024-12-07 12:51:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2024-12-07 12:55:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2024-12-07 12:55:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/purple_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-07 12:55:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2024-12-07 12:55:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_purple": {
+    "criteria": {
+      "has_item": "2024-12-07 12:55:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2024-12-07 12:55:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/purple_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-07 12:55:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-07 12:55:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2024-12-07 12:55:40 +0000"
+    },
+    "done": true
+  },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2024-12-07 12:56:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_helmet": {
+    "criteria": {
+      "has_grass_block": "2024-12-07 13:08:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_boots": {
+    "criteria": {
+      "has_grass_block": "2024-12-07 13:08:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_chestplate": {
+    "criteria": {
+      "has_grass_block": "2024-12-07 13:08:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_leggings": {
+    "criteria": {
+      "has_grass_block": "2024-12-07 13:08:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_leggings": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-07 13:16:26 +0000"
     },
     "done": true
   },
@@ -8334,60 +8442,6 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/purple_shiny_flower": {
-    "criteria": {
-      "has_item": "2024-12-07 12:49:02 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/bouquet": {
-    "criteria": {
-      "has_item": "2024-12-07 12:48:31 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/white_industrial_lamp": {
-    "criteria": {
-      "has_white_industrial_lamp": "2024-12-07 13:17:56 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/enderman_helmet": {
-    "criteria": {
-      "has_grass_block": "2024-12-07 13:08:16 +0000"
-    },
-    "done": true
-  },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2024-12-07 12:48:31 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_crockery_combo": {
-    "criteria": {
-      "has_white_crockery_combo": "2024-12-07 13:17:56 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_bowl": {
-    "criteria": {
-      "has_white_bowl": "2024-12-07 13:17:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-12-07 12:49:21 +0000"
-    },
-    "done": true
-  },
-  "botania:main/pure_daisy_pickup": {
-    "criteria": {
-      "daisy": "2024-12-07 13:19:56 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/hollow_chestplate": {
     "criteria": {
       "has_red_mushroom": "2024-12-07 13:16:26 +0000"
@@ -8400,135 +8454,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-07 13:17:56 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/enderman_boots": {
-    "criteria": {
-      "has_grass_block": "2024-12-07 13:08:16 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/dreamwood_wand": {
-    "criteria": {
-      "has_item": "2024-12-07 12:55:40 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/enderman_chestplate": {
-    "criteria": {
-      "has_grass_block": "2024-12-07 13:08:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2024-12-07 13:17:56 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/hollow_boots": {
     "criteria": {
       "has_red_mushroom": "2024-12-07 13:16:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_white_dye": "2024-12-07 13:17:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2024-12-07 13:16:26 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_purple": {
-    "criteria": {
-      "has_item": "2024-12-07 12:55:40 +0000"
-    },
-    "done": true
-  },
-  "botania:main/lexicon_use": {
-    "criteria": {
-      "use_lexicon": "2024-12-07 12:51:10 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/apothecary_mossy": {
-    "criteria": {
-      "has_item": "2024-12-07 12:55:40 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_white_industrial_lamp": {
-    "criteria": {
-      "has_small_white_industrial_lamp": "2024-12-07 13:17:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_the_recipe": "2024-12-07 13:17:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-07 13:17:56 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/lime_shiny_flower": {
-    "criteria": {
-      "has_item": "2024-12-07 12:48:31 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/purple_petal_block": {
-    "criteria": {
-      "has_item": "2024-12-07 12:55:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_white_dye": "2024-12-07 13:17:56 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_purple_double": {
-    "criteria": {
-      "has_alt_item": "2024-12-07 12:55:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2024-12-07 13:17:56 +0000"
-    },
-    "done": true
-  },
-  "botania:main/flower_pickup_lexicon": {
-    "criteria": {
-      "flower": "2024-12-07 12:48:31 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_cup": {
-    "criteria": {
-      "has_white_cup": "2024-12-07 13:17:56 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_purple": {
-    "criteria": {
-      "has_item": "2024-12-07 12:49:02 +0000"
     },
     "done": true
   },
@@ -8592,30 +8526,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_white_dye": "2024-12-07 13:17:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2024-12-07 13:17:56 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/apothecary_default": {
-    "criteria": {
-      "has_item": "2024-12-07 12:55:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_lime": {
-    "criteria": {
-      "has_item": "2024-12-07 12:48:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2024-12-07 13:16:26 +0000"
@@ -8628,9 +8538,105 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/enderman_leggings": {
+  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
     "criteria": {
-      "has_grass_block": "2024-12-07 13:08:16 +0000"
+      "forge:dyes/white": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_plate": {
+    "criteria": {
+      "has_white_plate": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/white_industrial_lamp": {
+    "criteria": {
+      "has_white_industrial_lamp": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_crockery_combo": {
+    "criteria": {
+      "has_white_crockery_combo": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_bowl": {
+    "criteria": {
+      "has_white_bowl": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_white_industrial_lamp": {
+    "criteria": {
+      "has_small_white_industrial_lamp": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_the_recipe": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cup": {
+    "criteria": {
+      "has_white_cup": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-07 13:17:56 +0000"
     },
     "done": true
   },
@@ -8646,15 +8652,15 @@
     },
     "done": true
   },
-  "botania:main/apothecary_pickup": {
-    "criteria": {
-      "apothecary": "2024-12-07 12:56:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-07 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "daisy": "2024-12-07 13:19:56 +0000"
     },
     "done": true
   },
@@ -8664,9 +8670,303 @@
     },
     "done": true
   },
-  "botania:main/flower_pickup": {
+  "botania:recipes/misc/livingrock_wall": {
     "criteria": {
-      "flower": "2024-12-07 12:48:31 +0000"
+      "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/small_bauxite_brick_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/polished_cut_bauxite_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/white_pavement": {
+    "criteria": {
+      "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_bauxite_brick_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_bauxite_bricks_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_void": {
+    "criteria": {
+      "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/polished_livingrock": {
+    "criteria": {
+      "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 13:54:01 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/small_bauxite_bricks_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_detector": {
+    "criteria": {
+      "has_alt_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/horn_grass": {
+    "criteria": {
+      "has_item": "2024-12-07 13:44:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_pool": {
+    "criteria": {
+      "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_livingrock": {
+    "criteria": {
+      "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_bauxite_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/polished_cut_bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blue_pavement": {
+    "criteria": {
+      "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/polished_cut_bauxite_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/polished_cut_bauxite_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/red_pavement": {
+    "criteria": {
+      "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/small_bauxite_brick_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/black_pavement": {
+    "criteria": {
+      "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slate": {
+    "criteria": {
+      "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_bauxite_brick_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/bauxite_pillar_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood": {
+    "criteria": {
+      "has_log": "2024-12-07 13:44:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/diluted_pool": {
+    "criteria": {
+      "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-07 13:54:07 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_bauxite_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/layered_bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slab": {
+    "criteria": {
+      "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pickup": "2024-12-07 13:51:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/yellow_pavement": {
+    "criteria": {
+      "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_item": "2024-12-07 13:44:46 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/green_pavement": {
+    "criteria": {
+      "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/small_bauxite_brick_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_bauxite_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_item": "2024-12-07 13:54:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_black": {
+    "criteria": {
+      "has_item": "2024-12-07 13:54:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks": {
+    "criteria": {
+      "has_item": "2024-12-07 13:44:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_spreader": {
+    "criteria": {
+      "has_item": "2024-12-07 13:44:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_stairs": {
+    "criteria": {
+      "has_item": "2024-12-07 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cut_bauxite_brick_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2024-12-07 13:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-07 13:47:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2024-12-07 13:44:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/incense_plate": {
+    "criteria": {
+      "has_item": "2024-12-07 13:44:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_twig": {
+    "criteria": {
+      "has_item": "2024-12-07 13:44:46 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "pickup": "2024-12-07 13:51:35 +0000"
     },
     "done": true
   },
