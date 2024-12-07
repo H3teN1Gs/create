@@ -10140,6 +10140,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2024-12-07 16:15:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/fertilizer_dye": {
     "criteria": {
       "has_the_recipe": "2024-12-07 14:18:26 +0000"

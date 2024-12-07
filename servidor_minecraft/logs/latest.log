@@ -4618,3 +4618,35 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Dec2024 15:52:29.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
 [07Dec2024 15:52:29.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
 [07Dec2024 15:52:29.593] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[07Dec2024 16:09:18.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Secrethaks[/100.90.10.58:53213] logged in with entity id 95113 at (611.9000657604482, 60.0, 267.5523588656866)
+[07Dec2024 16:09:18.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks joined the game
+[07Dec2024 16:09:19.062] [Server thread/INFO] [Jade/]: Syncing config to Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a)
+[07Dec2024 16:09:20.575] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Secrethaks (18)
+[07Dec2024 16:09:20.576] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[07Dec2024 16:09:32.054] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[07Dec2024 16:09:33.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[07Dec2024 16:09:33.064] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
+[07Dec2024 16:11:40.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 16:11:40.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 16:11:41.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
+[07Dec2024 16:11:41.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[07Dec2024 16:11:41.992] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[07Dec2024 16:12:07.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks lost connection: Disconnected
+[07Dec2024 16:12:07.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks left the game
+[07Dec2024 16:12:07.385] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Secrethaks
+[07Dec2024 16:12:27.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Secrethaks[/100.90.10.58:53303] logged in with entity id 106099 at (632.956132633248, 60.0, 271.62606621208596)
+[07Dec2024 16:12:27.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks joined the game
+[07Dec2024 16:12:28.006] [Server thread/INFO] [Jade/]: Syncing config to Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a)
+[07Dec2024 16:12:28.158] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Secrethaks (18)
+[07Dec2024 16:12:28.158] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[07Dec2024 16:12:58.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks lost connection: Disconnected
+[07Dec2024 16:12:58.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks left the game
+[07Dec2024 16:12:58.740] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Secrethaks
+[07Dec2024 16:13:15.169] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Secrethaks[/100.90.10.58:53557] logged in with entity id 107877 at (632.956132633248, 60.0, 271.62606621208596)
+[07Dec2024 16:13:15.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks joined the game
+[07Dec2024 16:13:15.370] [Server thread/INFO] [Jade/]: Syncing config to Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a)
+[07Dec2024 16:13:15.460] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Secrethaks (18)
+[07Dec2024 16:13:15.461] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[07Dec2024 16:13:24.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[07Dec2024 16:13:25.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[07Dec2024 16:13:25.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
