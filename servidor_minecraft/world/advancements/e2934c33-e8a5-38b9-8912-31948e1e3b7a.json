@@ -418,6 +418,7 @@
       "bread": "2024-12-06 15:33:20 +0000",
       "golden_apple": "2024-12-06 16:09:37 +0000",
       "rotten_flesh": "2024-12-04 22:51:41 +0000",
+      "cookie": "2024-12-08 11:41:58 +0000",
       "glow_berries": "2024-12-06 14:40:25 +0000",
       "mushroom_stew": "2024-12-07 17:42:11 +0000",
       "carrot": "2024-12-06 14:20:39 +0000"
@@ -9062,6 +9063,24 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-12-07 18:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-08 11:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-08 11:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-08 11:42:35 +0000"
     },
     "done": true
   },
