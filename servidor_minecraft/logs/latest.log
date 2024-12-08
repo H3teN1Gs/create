@@ -9304,3 +9304,6 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.Block cannot
 [08Dec2024 13:01:28.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 614.500000, 60.500000, 263.500000]
 [08Dec2024 13:05:08.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nezmanmatalaura moved wrongly!
 [08Dec2024 13:06:29.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[08Dec2024 13:18:32.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks lost connection: Disconnected
+[08Dec2024 13:18:32.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks left the game
+[08Dec2024 13:18:32.522] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Secrethaks
