@@ -10753,6 +10753,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/tiny_planet": {
+    "criteria": {
+      "has_item": "2024-12-08 12:13:14 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-08 12:02:30 +0000"
@@ -10762,6 +10768,12 @@
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-08 12:02:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2024-12-08 12:12:43 +0000"
     },
     "done": true
   },
@@ -10777,9 +10789,33 @@
     },
     "done": true
   },
+  "botania:recipes/misc/phantom_ink": {
+    "criteria": {
+      "has_item": "2024-12-08 12:13:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/crafting_halo": {
+    "criteria": {
+      "has_item": "2024-12-08 12:13:14 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2024-12-08 12:02:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/smelt_rod": {
+    "criteria": {
+      "has_item": "2024-12-08 12:30:07 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/tracer_tip": {
+    "criteria": {
+      "has_glowstone": "2024-12-08 12:27:08 +0000"
     },
     "done": true
   },
@@ -10795,9 +10831,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/nether_leggings": {
+    "criteria": {
+      "has_nether_wart": "2024-12-08 12:26:07 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-08 12:02:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/cobble_rod": {
+    "criteria": {
+      "has_item": "2024-12-08 12:30:07 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2024-12-08 12:25:58 +0000"
     },
     "done": true
   },
@@ -10819,9 +10873,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-08 12:25:58 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/red_sandstone": {
     "criteria": {
       "has_the_recipe": "2024-12-08 12:02:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/ender_dagger": {
+    "criteria": {
+      "has_item": "2024-12-08 12:13:14 +0000"
     },
     "done": true
   },
@@ -10840,6 +10906,18 @@
   "mcwwindows:recipes/prismarine": {
     "criteria": {
       "has_the_recipe": "2024-12-08 12:02:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_helmet": {
+    "criteria": {
+      "has_nether_wart": "2024-12-08 12:26:07 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_boots": {
+    "criteria": {
+      "has_nether_wart": "2024-12-08 12:26:07 +0000"
     },
     "done": true
   },
@@ -10873,6 +10951,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/abstruse_platform": {
+    "criteria": {
+      "has_item": "2024-12-08 12:13:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-08 11:07:59 +0000"
@@ -10885,15 +10969,39 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/nether_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2024-12-08 12:26:07 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2024-12-08 12:02:30 +0000"
     },
     "done": true
   },
+  "botania:recipes/decorations/runic_altar": {
+    "criteria": {
+      "has_item": "2024-12-08 12:13:14 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/birch": {
     "criteria": {
       "has_the_recipe": "2024-12-08 12:02:30 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2024-12-08 12:13:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_tablet": {
+    "criteria": {
+      "has_item": "2024-12-08 12:13:14 +0000"
     },
     "done": true
   },
@@ -10945,6 +11053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-08 12:27:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-08 12:02:30 +0000"
@@ -10954,6 +11068,12 @@
   "mcwwindows:recipes/jungle": {
     "criteria": {
       "has_the_recipe": "2024-12-08 12:02:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/fire_rod": {
+    "criteria": {
+      "has_item": "2024-12-08 12:30:07 +0000"
     },
     "done": true
   },
@@ -10969,9 +11089,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-08 12:26:07 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2024-12-08 12:02:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/tiny_planet_block": {
+    "criteria": {
+      "has_alt_item": "2024-12-08 12:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-08 12:26:07 +0000"
     },
     "done": true
   },
@@ -10993,6 +11131,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/invisibility_cloak": {
+    "criteria": {
+      "has_item": "2024-12-08 12:13:14 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/acacia": {
     "criteria": {
       "has_the_recipe": "2024-12-08 12:02:30 +0000"
@@ -11005,9 +11149,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-08 12:27:08 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2024-12-08 12:02:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2024-12-08 12:12:43 +0000"
     },
     "done": true
   },
