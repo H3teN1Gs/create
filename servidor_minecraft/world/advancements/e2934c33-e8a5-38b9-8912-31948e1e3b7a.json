@@ -9265,5 +9265,23 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_7": "2024-12-08 12:38:18 +0000"
+    },
+    "done": false
+  },
+  "nameless_trinkets:obtain/fragile_cloud": {
+    "criteria": {
+      "amphibious_hands": "2024-12-08 12:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2024-12-08 12:37:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

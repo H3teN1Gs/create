@@ -9433,6 +9433,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-08 12:36:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-08 12:27:13 +0000"
@@ -9448,6 +9454,18 @@
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2024-12-08 12:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-08 12:36:55 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/obsidian_to_netherite_conversion_kit": {
+    "criteria": {
+      "has_item": "2024-12-08 12:36:55 +0000"
     },
     "done": true
   },

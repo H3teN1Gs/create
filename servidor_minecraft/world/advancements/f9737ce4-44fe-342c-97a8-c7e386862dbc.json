@@ -10735,6 +10735,12 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/nelumbo": {
+    "criteria": {
+      "nelumbo": "2024-12-08 12:40:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-08 11:07:59 +0000"
