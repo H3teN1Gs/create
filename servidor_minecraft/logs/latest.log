@@ -9307,3 +9307,6 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.Block cannot
 [08Dec2024 13:18:32.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks lost connection: Disconnected
 [08Dec2024 13:18:32.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks left the game
 [08Dec2024 13:18:32.522] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Secrethaks
+[08Dec2024 13:31:21.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nezmanmatalaura lost connection: Disconnected
+[08Dec2024 13:31:21.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura left the game
+[08Dec2024 13:31:21.920] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nezmanmatalaura
