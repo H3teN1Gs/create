@@ -4414,3 +4414,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Dec2024 10:58:32.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player capybarav2 (f9737ce4-44fe-342c-97a8-c7e386862dbc) successfully connected to voice chat
 [08Dec2024 10:58:51.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Creative Mode]
 [08Dec2024 11:00:45.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Inner Arts]
+[08Dec2024 11:29:52.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
+[08Dec2024 11:33:35.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Gave 1 [Mushroom Stem] to capybarav2]
+[08Dec2024 11:33:40.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Creative Mode]
+[08Dec2024 11:33:48.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
