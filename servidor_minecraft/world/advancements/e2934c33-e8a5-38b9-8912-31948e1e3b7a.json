@@ -9295,11 +9295,41 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-08 13:03:42 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
       "trickor_treat_7": "2024-12-08 12:38:18 +0000"
     },
     "done": false
+  },
+  "nameless_trinkets:obtain/blindfold": {
+    "criteria": {
+      "blindfold": "2024-12-08 12:59:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-08 13:03:34 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/explosion_proof_jacket": {
+    "criteria": {
+      "explosion_proof_jacket": "2024-12-08 13:00:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-08 13:03:24 +0000"
+    },
+    "done": true
   },
   "botania:recipes/decorations/orange_shiny_flower": {
     "criteria": {
@@ -9343,9 +9373,27 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/kobold": {
+    "criteria": {
+      "kill": "2024-12-08 12:55:05 +0000"
+    },
+    "done": true
+  },
   "nameless_trinkets:obtain/fragile_cloud": {
     "criteria": {
       "amphibious_hands": "2024-12-08 12:41:17 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/fur_to_leather": {
+    "criteria": {
+      "has_fur": "2024-12-08 12:55:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-08 13:03:24 +0000"
     },
     "done": true
   },
