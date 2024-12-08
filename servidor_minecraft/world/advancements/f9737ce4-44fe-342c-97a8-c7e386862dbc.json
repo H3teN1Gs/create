@@ -10381,27 +10381,165 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-12-07 18:09:40 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/goddess_charm": {
     "criteria": {
       "has_item": "2024-12-07 17:20:26 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+  "botania:recipes/misc/conversions/manadiamond_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-07 17:20:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/third_eye": {
+    "criteria": {
+      "has_item": "2024-12-07 17:20:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/runic_altar_alt": {
+    "criteria": {
+      "has_item": "2024-12-07 17:20:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/avatar": {
+    "criteria": {
+      "has_item": "2024-12-07 17:20:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_tablet_alt": {
+    "criteria": {
+      "has_item": "2024-12-07 17:20:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/auto_crafting_halo": {
+    "criteria": {
+      "has_item": "2024-12-07 17:20:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_gun": {
+    "criteria": {
+      "has_item": "2024-12-07 17:20:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/mana_diamond_block": {
+    "criteria": {
+      "has_item": "2024-12-07 17:20:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/divining_rod": {
+    "criteria": {
+      "has_item": "2024-12-07 17:20:26 +0000"
+    },
+    "done": true
+  },
+  "botania:main/runic_altar_pickup": {
+    "criteria": {
+      "altar": "2024-12-07 17:20:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/terra_plate": {
+    "criteria": {
+      "has_item": "2024-12-07 17:29:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/bellows": {
+    "criteria": {
+      "has_item": "2024-12-07 17:29:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/slingshot": {
+    "criteria": {
+      "has_item": "2024-12-07 17:29:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/tornado_rod": {
+    "criteria": {
+      "has_item": "2024-12-07 17:29:37 +0000"
+    },
+    "done": true
+  },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2024-12-07 17:29:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/gray_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-07 17:35:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/gray_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-07 17:35:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_gray": {
+    "criteria": {
+      "has_item": "2024-12-07 17:35:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-07 17:35:05 +0000"
+    },
+    "done": true
+  },
+  "botania:main/functional_flower": {
+    "criteria": {
+      "flower": "2024-12-07 17:35:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_hopperhock": {
+    "criteria": {
+      "has_item": "2024-12-07 17:35:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dirt_rod": {
+    "criteria": {
+      "has_item": "2024-12-07 17:53:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/temperance_stone": {
+    "criteria": {
+      "has_item": "2024-12-07 17:53:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_rannuncarpus": {
+    "criteria": {
+      "has_item": "2024-12-07 17:55:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-07 18:09:40 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/conversions/manadiamond_block_deconstruct": {
+  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-07 17:20:26 +0000"
+      "has_stone_types_asurine": "2024-12-07 18:09:40 +0000"
     },
     "done": true
   },
@@ -10417,30 +10555,6 @@
     },
     "done": true
   },
-  "botania:main/runic_altar_pickup": {
-    "criteria": {
-      "altar": "2024-12-07 17:20:40 +0000"
-    },
-    "done": true
-  },
-  "botania:main/functional_flower": {
-    "criteria": {
-      "flower": "2024-12-07 17:35:38 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/terra_plate": {
-    "criteria": {
-      "has_item": "2024-12-07 17:29:37 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/third_eye": {
-    "criteria": {
-      "has_item": "2024-12-07 17:20:26 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-07 18:09:40 +0000"
@@ -10453,18 +10567,6 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/gray_petal_block": {
-    "criteria": {
-      "has_item": "2024-12-07 17:35:05 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/runic_altar_alt": {
-    "criteria": {
-      "has_item": "2024-12-07 17:20:26 +0000"
-    },
-    "done": true
-  },
   "design_decor:recipes/building_blocks/asurine_castel_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-07 18:09:40 +0000"
@@ -10474,12 +10576,6 @@
   "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-07 18:09:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/floating_hopperhock": {
-    "criteria": {
-      "has_item": "2024-12-07 17:35:38 +0000"
     },
     "done": true
   },
@@ -10501,57 +10597,15 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/avatar": {
-    "criteria": {
-      "has_item": "2024-12-07 17:20:26 +0000"
-    },
-    "done": true
-  },
   "design_decor:recipes/building_blocks/asurine_castel_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-07 18:09:40 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/conversions/gray_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2024-12-07 17:35:05 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/floating_rannuncarpus": {
-    "criteria": {
-      "has_item": "2024-12-07 17:55:57 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_tablet_alt": {
-    "criteria": {
-      "has_item": "2024-12-07 17:20:26 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/dirt_rod": {
-    "criteria": {
-      "has_item": "2024-12-07 17:53:04 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/auto_crafting_halo": {
-    "criteria": {
-      "has_item": "2024-12-07 17:20:26 +0000"
-    },
-    "done": true
-  },
   "design_decor:recipes/building_blocks/asurine_castel_tile_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-07 18:09:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/bellows": {
-    "criteria": {
-      "has_item": "2024-12-07 17:29:37 +0000"
     },
     "done": true
   },
@@ -10570,24 +10624,6 @@
   "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-07 18:09:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_gun": {
-    "criteria": {
-      "has_item": "2024-12-07 17:20:26 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/slingshot": {
-    "criteria": {
-      "has_item": "2024-12-07 17:29:37 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/temperance_stone": {
-    "criteria": {
-      "has_item": "2024-12-07 17:53:04 +0000"
     },
     "done": true
   },
@@ -10612,18 +10648,6 @@
   "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-07 18:09:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/mana_diamond_block": {
-    "criteria": {
-      "has_item": "2024-12-07 17:20:26 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/tornado_rod": {
-    "criteria": {
-      "has_item": "2024-12-07 17:29:37 +0000"
     },
     "done": true
   },
@@ -10663,12 +10687,6 @@
     },
     "done": true
   },
-  "botania:recipes/misc/dye_gray": {
-    "criteria": {
-      "has_item": "2024-12-07 17:35:05 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-07 18:09:40 +0000"
@@ -10681,21 +10699,45 @@
     },
     "done": true
   },
-  "botania:recipes/misc/petal_gray_double": {
+  "botania:recipes/misc/petal_cyan_double": {
     "criteria": {
-      "has_alt_item": "2024-12-07 17:35:05 +0000"
+      "has_alt_item": "2024-12-07 18:18:24 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/divining_rod": {
+  "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
     "criteria": {
-      "has_item": "2024-12-07 17:20:26 +0000"
+      "has_item": "2024-12-07 18:18:24 +0000"
     },
     "done": true
   },
-  "botania:main/rune_pickup": {
+  "botania:recipes/decorations/cyan_petal_block": {
     "criteria": {
-      "rune": "2024-12-07 17:29:37 +0000"
+      "has_item": "2024-12-07 18:18:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_cyan": {
+    "criteria": {
+      "has_item": "2024-12-07 18:18:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_hydroangeas": {
+    "criteria": {
+      "has_item": "2024-12-07 18:18:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_agricarnation": {
+    "criteria": {
+      "has_item": "2024-12-07 18:36:06 +0000"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2024-12-08 11:00:45 +0000"
     },
     "done": true
   },
