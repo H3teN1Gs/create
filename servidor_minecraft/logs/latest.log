@@ -4471,3 +4471,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [09Dec2024 15:33:49.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
 [09Dec2024 15:34:15.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura went up in flames
 [09Dec2024 15:34:15.771] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[09Dec2024 15:35:48.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[09Dec2024 15:37:46.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura drowned
+[09Dec2024 15:37:46.972] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[09Dec2024 15:38:29.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura drowned
+[09Dec2024 15:38:29.097] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[09Dec2024 15:39:04.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported nezmanmatalaura to capybarav2]
+[09Dec2024 15:41:50.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nezmanmatalaura lost connection: Disconnected
+[09Dec2024 15:41:50.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura left the game
+[09Dec2024 15:41:50.912] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nezmanmatalaura
+[09Dec2024 15:41:53.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Creative Mode]

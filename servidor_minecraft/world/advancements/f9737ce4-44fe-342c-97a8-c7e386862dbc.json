@@ -11329,6 +11329,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mana_ring": {
+    "criteria": {
+      "has_item": "2024-12-09 15:39:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_candle": {
     "criteria": {
       "has_gray_dye": "2024-12-09 15:11:58 +0000"
@@ -11644,6 +11650,12 @@
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-09 15:12:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_mirror": {
+    "criteria": {
+      "has_item": "2024-12-09 15:39:21 +0000"
     },
     "done": true
   },
