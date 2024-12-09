@@ -9691,9 +9691,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-09 14:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-09 14:41:54 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_coalburner": {
     "criteria": {
       "has_item": "2024-12-09 14:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-09 14:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-09 14:41:54 +0000"
     },
     "done": true
   },
@@ -9721,9 +9745,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-09 14:41:54 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_woodburner": {
     "criteria": {
       "has_item": "2024-12-09 14:18:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-09 14:41:54 +0000"
     },
     "done": true
   },
@@ -9745,6 +9781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-09 14:41:54 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_streamlined": {
     "criteria": {
       "has_item": "2024-12-09 14:18:09 +0000"
@@ -9757,6 +9799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-09 14:41:54 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
       "has_wood_bowl": "2024-12-09 13:40:49 +0000"
@@ -9766,6 +9814,12 @@
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2024-12-09 13:40:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-09 14:41:54 +0000"
     },
     "done": true
   },
