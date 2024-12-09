@@ -4438,3 +4438,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [09Dec2024 14:21:02.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
 [09Dec2024 14:22:39.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
 [09Dec2024 14:22:39.516] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[09Dec2024 14:23:59.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [One of many.]
+[09Dec2024 14:25:48.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[09Dec2024 14:25:49.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[09Dec2024 14:25:50.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
+[09Dec2024 14:25:50.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[09Dec2024 14:25:50.222] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[09Dec2024 14:30:37.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Spectator Mode]
+[09Dec2024 14:30:49.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Set own game mode to Survival Mode]
