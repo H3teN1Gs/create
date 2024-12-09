@@ -11335,6 +11335,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2024-12-09 13:53:53 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/small_green_industrial_lamp": {
     "criteria": {
       "has_small_green_industrial_lamp": "2024-12-09 13:43:25 +0000"
@@ -11398,6 +11404,12 @@
   "botania:recipes/misc/conversions/light_blue_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2024-12-09 13:39:03 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/fur_to_leather": {
+    "criteria": {
+      "has_fur": "2024-12-09 13:53:53 +0000"
     },
     "done": true
   },

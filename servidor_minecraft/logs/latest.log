@@ -4424,3 +4424,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [09Dec2024 13:35:43.399] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player capybarav2 (f9737ce4-44fe-342c-97a8-c7e386862dbc) successfully connected to voice chat
 [09Dec2024 13:45:22.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Spectator Mode]
 [09Dec2024 13:46:15.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
+[09Dec2024 13:53:33.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was shot by Kobold
+[09Dec2024 13:53:33.496] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[09Dec2024 13:53:53.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has reached the goal [Worthy Equipment]
+[09Dec2024 13:58:06.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[09Dec2024 14:00:45.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura fell from a high place
+[09Dec2024 14:00:45.179] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[09Dec2024 14:03:02.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Dragon
+[09Dec2024 14:03:02.188] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[09Dec2024 14:04:26.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported nezmanmatalaura to capybarav2]
+[09Dec2024 14:11:54.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[09Dec2024 14:20:38.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Spectator Mode]
+[09Dec2024 14:21:02.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
+[09Dec2024 14:22:39.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[09Dec2024 14:22:39.516] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
