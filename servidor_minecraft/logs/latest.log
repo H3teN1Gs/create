@@ -4422,3 +4422,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [09Dec2024 13:35:42.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f9737ce4-44fe-342c-97a8-c7e386862dbc
 [09Dec2024 13:35:43.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f9737ce4-44fe-342c-97a8-c7e386862dbc
 [09Dec2024 13:35:43.399] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player capybarav2 (f9737ce4-44fe-342c-97a8-c7e386862dbc) successfully connected to voice chat
+[09Dec2024 13:45:22.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Spectator Mode]
+[09Dec2024 13:46:15.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
