@@ -11959,6 +11959,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-09 16:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-09 16:44:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/floating_rannuncarpus_chibi": {
     "criteria": {
       "has_item": "2024-12-09 16:11:22 +0000"
@@ -11968,6 +11980,12 @@
   "cold_sweat:full_insulation": {
     "criteria": {
       "requirement": "2024-12-09 16:42:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_rod": {
+    "criteria": {
+      "has_item": "2024-12-09 16:50:03 +0000"
     },
     "done": true
   },
