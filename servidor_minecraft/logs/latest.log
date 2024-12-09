@@ -4458,3 +4458,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [09Dec2024 15:21:40.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura fell from a high place
 [09Dec2024 15:21:40.319] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
 [09Dec2024 15:23:54.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[09Dec2024 15:24:33.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Rob the Dirt Digger
+[09Dec2024 15:24:33.278] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[09Dec2024 15:24:52.484] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[09Dec2024 15:24:52.485] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[09Dec2024 15:24:52.486] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[09Dec2024 15:24:53.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Rob the Dirt Digger
+[09Dec2024 15:24:53.636] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[09Dec2024 15:25:39.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported nezmanmatalaura to capybarav2]
+[09Dec2024 15:25:41.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[09Dec2024 15:33:29.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capybarav2 moved wrongly!
+[09Dec2024 15:33:49.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[09Dec2024 15:34:15.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura went up in flames
+[09Dec2024 15:34:15.771] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
