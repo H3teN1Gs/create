@@ -4421,3 +4421,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [09Dec2024 16:08:18.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player capybarav2 (f9737ce4-44fe-342c-97a8-c7e386862dbc) successfully connected to voice chat
 [09Dec2024 16:13:38.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura tried to swim in lava
 [09Dec2024 16:13:38.474] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[09Dec2024 16:22:34.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Best Friends Forever]

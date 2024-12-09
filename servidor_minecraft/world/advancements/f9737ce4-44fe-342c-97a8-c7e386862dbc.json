@@ -11935,6 +11935,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-09 16:22:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/floating_rannuncarpus_chibi": {
     "criteria": {
       "has_item": "2024-12-09 16:11:22 +0000"
