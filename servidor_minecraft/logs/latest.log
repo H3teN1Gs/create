@@ -4413,3 +4413,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [09Dec2024 13:19:48.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 95937cc7-1c20-3aff-bb1b-14ad16f04219
 [09Dec2024 13:19:49.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 95937cc7-1c20-3aff-bb1b-14ad16f04219
 [09Dec2024 13:19:49.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nezmanmatalaura (95937cc7-1c20-3aff-bb1b-14ad16f04219) successfully connected to voice chat
+[09Dec2024 13:25:31.462] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b77578b[id=<null>,name=capybarav2,properties={},legacy=false] (/100.83.167.61:63247) lost connection: Disconnected
+[09Dec2024 13:35:24.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capybarav2[/100.83.167.61:63305] logged in with entity id 53891 at (586.0036629448733, 62.25220334025373, 265.2795633887032)
+[09Dec2024 13:35:24.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 joined the game
+[09Dec2024 13:35:24.962] [Server thread/INFO] [Jade/]: Syncing config to capybarav2 (f9737ce4-44fe-342c-97a8-c7e386862dbc)
+[09Dec2024 13:35:25.850] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capybarav2 (18)
+[09Dec2024 13:35:25.850] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capybarav2
+[09Dec2024 13:35:42.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f9737ce4-44fe-342c-97a8-c7e386862dbc
+[09Dec2024 13:35:43.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f9737ce4-44fe-342c-97a8-c7e386862dbc
+[09Dec2024 13:35:43.399] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player capybarav2 (f9737ce4-44fe-342c-97a8-c7e386862dbc) successfully connected to voice chat
