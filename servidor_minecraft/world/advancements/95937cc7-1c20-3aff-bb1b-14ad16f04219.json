@@ -9697,15 +9697,45 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_support_wedge": {
+    "criteria": {
+      "has_item": "2024-12-09 15:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-09 15:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-09 14:41:54 +0000"
     },
     "done": true
   },
+  "createdeco:recipes/decorations/red_copper_lamp": {
+    "criteria": {
+      "has_item": "2024-12-09 15:05:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars_overlay": {
+    "criteria": {
+      "has_item": "2024-12-09 15:05:16 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_coalburner": {
     "criteria": {
       "has_item": "2024-12-09 14:18:09 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-09 15:13:02 +0000"
     },
     "done": true
   },
@@ -9721,9 +9751,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-09 15:13:02 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_sheet_metal": {
+    "criteria": {
+      "has_item": "2024-12-09 15:05:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2024-12-09 15:05:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2024-12-09 13:40:49 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_mesh_fence": {
+    "criteria": {
+      "has_item": "2024-12-09 15:05:16 +0000"
     },
     "done": true
   },
@@ -9736,6 +9790,12 @@
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-09 13:40:49 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_copper_lamp": {
+    "criteria": {
+      "has_item": "2024-12-09 15:05:16 +0000"
     },
     "done": true
   },
@@ -9763,6 +9823,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/yellow_copper_lamp": {
+    "criteria": {
+      "has_item": "2024-12-09 15:05:16 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_oilburner": {
     "criteria": {
       "has_item": "2024-12-09 14:18:09 +0000"
@@ -9784,6 +9850,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-09 14:41:54 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_forge": {
+    "criteria": {
+      "has_item": "2024-12-09 15:05:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_copper_lamp": {
+    "criteria": {
+      "has_item": "2024-12-09 15:05:16 +0000"
     },
     "done": true
   },

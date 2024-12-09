@@ -11269,9 +11269,57 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_pink_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-09 15:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2024-12-09 15:08:45 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/pink_industrial_lamp": {
+    "criteria": {
+      "has_pink_industrial_lamp": "2024-12-09 15:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2024-12-09 15:08:45 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2024-12-09 15:11:57 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/green_industrial_lamp": {
     "criteria": {
       "has_green_industrial_lamp": "2024-12-09 13:43:25 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_industrial_lamp": {
+    "criteria": {
+      "has_red_industrial_lamp": "2024-12-09 15:12:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_bowl": {
+    "criteria": {
+      "has_blue_bowl": "2024-12-09 15:11:57 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-09 15:11:58 +0000"
     },
     "done": true
   },
@@ -11281,9 +11329,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2024-12-09 15:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-09 15:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2024-12-09 14:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2024-12-09 15:12:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/cyan_industrial_lamp": {
+    "criteria": {
+      "has_cyan_industrial_lamp": "2024-12-09 15:12:12 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-09 15:12:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_gray_dye": {
+    "criteria": {
+      "forge:dyes/gray": "2024-12-09 15:11:58 +0000"
     },
     "done": true
   },
@@ -11311,6 +11395,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_cyan_dye": {
+    "criteria": {
+      "forge:dyes/cyan": "2024-12-09 15:12:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-09 14:21:32 +0000"
@@ -11323,6 +11413,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-09 15:11:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_plate": {
+    "criteria": {
+      "has_blue_plate": "2024-12-09 15:11:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_blossom": {
+    "criteria": {
+      "has_logs": "2024-12-09 15:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2024-12-09 15:11:57 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_cyan_industrial_lamp": {
+    "criteria": {
+      "has_small_cyan_industrial_lamp": "2024-12-09 15:12:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-12-09 14:37:01 +0000"
@@ -11332,6 +11452,18 @@
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-09 14:21:32 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_blue_industrial_lamp": {
+    "criteria": {
+      "has_small_blue_industrial_lamp": "2024-12-09 15:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-09 15:12:13 +0000"
     },
     "done": true
   },
@@ -11359,6 +11491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-09 15:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-09 14:21:32 +0000"
@@ -11368,6 +11506,12 @@
   "minecraft:recipes/building_blocks/dye_light_blue_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-09 13:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-12-09 15:12:13 +0000"
     },
     "done": true
   },
@@ -11389,6 +11533,42 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_blue_dye": {
+    "criteria": {
+      "forge:dyes/blue": "2024-12-09 15:11:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cup": {
+    "criteria": {
+      "has_blue_cup": "2024-12-09 15:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/pink_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-09 15:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-09 15:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-09 15:11:58 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_boots": {
+    "criteria": {
+      "has_red_dye": "2024-12-09 15:12:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2024-12-09 14:21:32 +0000"
@@ -11398,6 +11578,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2024-12-09 14:21:32 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/cyan_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-09 15:12:12 +0000"
     },
     "done": true
   },
@@ -11413,6 +11599,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-09 15:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-09 15:12:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "forge:dyes/red": "2024-12-09 15:12:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-09 14:21:16 +0000"
@@ -11425,9 +11629,45 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/small_pink_industrial_lamp": {
+    "criteria": {
+      "has_small_pink_industrial_lamp": "2024-12-09 15:08:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_chestplate": {
+    "criteria": {
+      "has_red_dye": "2024-12-09 15:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-09 15:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-09 15:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-09 15:11:57 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2024-12-09 13:53:53 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/blue_industrial_lamp": {
+    "criteria": {
+      "has_blue_industrial_lamp": "2024-12-09 15:11:57 +0000"
     },
     "done": true
   },
@@ -11497,9 +11737,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bat_leggings": {
+    "criteria": {
+      "has_red_dye": "2024-12-09 15:12:13 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/light_blue_industrial_lamp": {
     "criteria": {
       "has_light_blue_industrial_lamp": "2024-12-09 13:39:30 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-09 15:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-09 15:12:12 +0000"
     },
     "done": true
   },
@@ -11509,15 +11767,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-09 15:08:45 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_light_blue": {
     "criteria": {
       "has_item": "2024-12-09 13:39:03 +0000"
     },
     "done": true
   },
+  "createdeco:recipes/decorations/blue_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-09 15:11:57 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/light_blue_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2024-12-09 13:39:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_pink": {
+    "criteria": {
+      "has_item": "2024-12-09 15:08:25 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_red_industrial_lamp": {
+    "criteria": {
+      "has_small_red_industrial_lamp": "2024-12-09 15:12:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_pink_dye": {
+    "criteria": {
+      "forge:dyes/pink": "2024-12-09 15:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-09 15:08:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_helmet": {
+    "criteria": {
+      "has_red_dye": "2024-12-09 15:12:13 +0000"
     },
     "done": true
   },
@@ -11533,9 +11833,33 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/pink_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-09 15:08:25 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_gray_industrial_lamp": {
+    "criteria": {
+      "has_small_gray_industrial_lamp": "2024-12-09 15:11:58 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gray_industrial_lamp": {
+    "criteria": {
+      "has_gray_industrial_lamp": "2024-12-09 15:11:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2024-12-09 14:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-09 15:11:58 +0000"
     },
     "done": true
   },
@@ -11560,6 +11884,24 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-09 14:21:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_crockery_combo": {
+    "criteria": {
+      "has_blue_crockery_combo": "2024-12-09 15:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/azulejo_0": {
+    "criteria": {
+      "has_item": "2024-12-09 15:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-09 15:12:12 +0000"
     },
     "done": true
   },

@@ -4451,3 +4451,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [09Dec2024 14:52:10.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Spectator Mode]
 [09Dec2024 14:52:42.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
 [09Dec2024 14:53:27.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[09Dec2024 15:12:16.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> a
