@@ -4423,3 +4423,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [09Dec2024 16:13:38.474] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
 [09Dec2024 16:22:34.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Best Friends Forever]
 [09Dec2024 16:27:21.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capybarav2 moved wrongly!
+[09Dec2024 16:39:20.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[09Dec2024 16:40:21.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[09Dec2024 16:41:50.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[09Dec2024 16:42:27.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Lining Up]
+[09Dec2024 16:42:44.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has completed the challenge [Dressed to Go]
+[09Dec2024 16:44:21.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[09Dec2024 16:44:51.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Gave 1 [Sugar Cane] to capybarav2]

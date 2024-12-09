@@ -11965,5 +11965,17 @@
     },
     "done": true
   },
+  "cold_sweat:full_insulation": {
+    "criteria": {
+      "requirement": "2024-12-09 16:42:44 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:insulate_armor": {
+    "criteria": {
+      "requirement": "2024-12-09 16:42:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
