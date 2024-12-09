@@ -9913,5 +9913,11 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/iron_coinstack": {
+    "criteria": {
+      "has_item": "2024-12-09 17:00:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
